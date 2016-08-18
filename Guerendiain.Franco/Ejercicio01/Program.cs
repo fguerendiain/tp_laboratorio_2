@@ -23,31 +23,32 @@ namespace Ejercicio01
             {
                 Console.WriteLine("Ingrese el primer numero: ");
                 ok = int.TryParse(Console.ReadLine(), out num1);
-            } while (ok);
+            } while (!ok);
             do
             {
                 Console.WriteLine("Ingrese el segundo numero: ");
                 ok = int.TryParse(Console.ReadLine(), out num2);
-            } while (ok);
+            } while (!ok);
             do
             {
                 Console.WriteLine("Ingrese el tercer numero: ");
                 ok = int.TryParse(Console.ReadLine(), out num3);
-            } while (ok);
+            } while (!ok);
             do
             {
                 Console.WriteLine("Ingrese el cuerto numero: ");
                 ok = int.TryParse(Console.ReadLine(), out num4);
-            } while (ok);
+            } while (!ok);
             do
             {
                 Console.WriteLine("Ingrese el quinto numero: ");
                 ok = int.TryParse(Console.ReadLine(), out num5);
-            } while (ok);
+            } while (!ok);
 
             prom = (num1 + num2 + num3 + num4 + num5) / 5.0 ;
 
             max = Math.Max(num1, num2);
+            min = Math.Min(num1, num2);
 
 
             Console.WriteLine("Numero Maximo: {0}", max);
