@@ -4,3 +4,6 @@ D:\fguerendiain\Guerendiain.Franco\Ejercicio01\obj\x86\Debug\Ejercicio01.exe
 D:\fguerendiain\Guerendiain.Franco\Ejercicio01\obj\x86\Debug\Ejercicio01.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Ejercicio01\obj\x86\Debug\Ejercicio01.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Ejercicio01\obj\x86\Debug\Ejercicio01.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Ejercicio01\obj\x86\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Ejercicio01\bin\Debug\Ejercicio01.pdb

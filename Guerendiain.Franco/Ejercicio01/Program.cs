@@ -9,7 +9,7 @@ namespace Ejercicio01
     {
         static void Main(string[] args)
         {
-            int userNum;
+          /*  int userNum;
             int max;
             int min;
             double prom;
@@ -25,13 +25,13 @@ namespace Ejercicio01
 
             prom = (num1 + num2 + num3 + num4 + num5) / 5.0 ;
 
-            max = Math.Max(num1, num2);
-            min = Math.Min(num1, num2);
+           max = Math.Max(num1, num2);
+           min = Math.Min(num1, num2);
 
 
             Console.WriteLine("Numero Maximo: {0}", max);
             Console.WriteLine("Numero Minimo: {0}", min);
-            Console.WriteLine("Promedio: {0}", prom);
+            Console.WriteLine("Promedio: {0}", prom);*/
         }
     }
 }
