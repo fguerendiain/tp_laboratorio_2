@@ -33,24 +33,45 @@ namespace Clase03
 
         public static void Dibujar(Triangulo t)
         {
-            string horizontal = "";
+            string draw = "";
 
-            while (horizontal.Length != t.baseT-1)
+            int height = t.altura;
+            int width = t.baseT;
+
+            int halfWidth = width / 2;
+            int step = halfWidth / height;
+            int distanceToCenter = 0;
+
+            int drawFrom = 0;
+            int drawTo = width;
+            for (int row = 0; row < height; row++)
             {
-                horizontal = "*\n" + horizontal;
+                drawFrom = 0;
+                drawTo = width;
+
+                if (row != height - 1)
+                {
+                    distanceToCenter = row * step;
+                    drawFrom = halfWidth - distanceToCenter;
+                    drawTo = halfWidth + distanceToCenter;
+                }
+
+                for (int c = 0; c < width; c++)
+                {
+                    if (c >= drawFrom && c <= drawTo)
+                    {
+                        draw += "*";
+                    }
+                    else
+                    {
+                        draw += " ";
+                    }
+                }
+
+                draw = "\n";
             }
             
-            //for (int i = 0; i < t.baseT; i++)
-            //{
-            //    horizontal += "*";
-            //}
-            //for (int i = 0; i < t.altura; i++)
-            //{
-            //    horizontal = "\n" + horizontal;
-            //}
-            Console.Write(horizontal);
+            Console.Write(draw);
         }
-
-
     }
 }

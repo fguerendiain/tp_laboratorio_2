@@ -10,8 +10,8 @@ namespace Clase03
     {
         static void Main(string[] args)
         {
-            Triangulo t1 = new Triangulo(3,8);
-            Rectangulo r1 = new Rectangulo(3,3);
+            Triangulo t1 = new Triangulo(8,8);
+            Rectangulo r1 = new Rectangulo(8,6);
 
             //t1.altura = 8;
             //t1.baseT = 3;

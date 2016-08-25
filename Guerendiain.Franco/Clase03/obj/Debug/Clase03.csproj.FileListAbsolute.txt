@@ -4,3 +4,9 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.pd
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.exe
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache

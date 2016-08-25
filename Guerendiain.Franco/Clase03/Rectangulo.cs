@@ -34,16 +34,16 @@ namespace Clase03
 
         public static void Dibujar(Rectangulo r)
         {
-            string horizontal = "";
-            for (int i = 0; i < r.ladoUno; i++)
-            {
-                horizontal += "*";
-            }
+            string draw = "";
             for (int i = 0; i < r.ladoDos; i++)
             {
-                horizontal += "\n" + horizontal;
+                for (int j = 0; j < r.ladoUno; j++)
+                {
+                    draw += "*";
+                }
+                draw += "\n";
             }
-            Console.Write(horizontal);
+            Console.Write(draw);
         }
 
     }
