@@ -1,0 +1,6 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.pdb

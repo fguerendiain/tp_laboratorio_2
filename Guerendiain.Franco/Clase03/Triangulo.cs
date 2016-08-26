@@ -58,7 +58,7 @@ namespace Clase03
 
                 for (int c = 0; c < width; c++)
                 {
-                    if (c >= drawFrom && c <= drawTo)
+                    if (c >= drawFrom || c <= drawTo)
                     {
                         draw += "*";
                     }
