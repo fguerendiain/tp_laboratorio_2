@@ -77,6 +77,8 @@ namespace Clase05
             p4 = p3 - t2;
             p4 = p3 - t2;
 
+            Console.WriteLine(p2);
+            Console.WriteLine(p4);
 
             Console.ReadLine();
         
