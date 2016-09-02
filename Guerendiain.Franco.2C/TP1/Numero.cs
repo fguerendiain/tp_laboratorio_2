@@ -52,5 +52,29 @@ namespace TP1
         }
 
         #endregion
+
+        #region SOBRECARGA DE OPERADORES
+
+        public static double operator +(Numero num1, Numero num2)
+        {
+            return num1.getNumero() + num2.getNumero();
+        }
+
+        public static double operator -(Numero num1, Numero num2)
+        {
+            return num1.getNumero() - num2.getNumero();
+        }
+
+        public static double operator *(Numero num1, Numero num2)
+        {
+            return num1.getNumero() * num2.getNumero();
+        }
+
+        public static double operator /(Numero num1, Numero num2)
+        {
+            return num1.getNumero() / num2.getNumero();
+        }
+        #endregion
+
     }
 }

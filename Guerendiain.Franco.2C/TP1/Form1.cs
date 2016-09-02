@@ -17,21 +17,25 @@ namespace TP1
             InitializeComponent();
         }
 
-        private void btnLimpiar_Click(object sender, EventArgs e)
-        {
-            this.txtNumero1.Text = "";
-            this.txtNumero2.Text = "";
-        }
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
+
             double resultado;
+
             Numero num1 = new Numero(this.txtNumero1.Text);
             Numero num2 = new Numero(this.txtNumero2.Text);
 
-            Calculadora.operar(num1, num2, this.cmbOperacion);
+            resultado = Calculadora.operar(num1, num2, cmbOperacion.Text);
 
+            this.lblResultado.Text = resultado.ToString();
 
+        }
+
+        private void btnLimpiar_Click_1(object sender, EventArgs e)
+        {
+            txtNumero1.Clear();
+            txtNumero2.Clear();
         }
     }
 }
