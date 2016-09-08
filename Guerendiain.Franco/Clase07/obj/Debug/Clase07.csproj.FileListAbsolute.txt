@@ -1,0 +1,6 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\bin\Debug\Clase07.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\bin\Debug\Clase07.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\bin\Debug\Clase07.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\obj\Debug\Clase07.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\obj\Debug\Clase07.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07\obj\Debug\Clase07.csprojResolveAssemblyReference.cache
