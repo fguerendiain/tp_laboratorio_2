@@ -41,11 +41,12 @@ namespace Clase07
             return Mostrar(p1);
         }
 
+        //SI LA TEMPERA ESTA EN LA PALETA ES TRUE
         public static bool operator ==(Paleta p1, Tempera t1)
         {
-            foreach (Tempera t in p1._colores)
+            for (int i = 0 ; i < p1._cantidadMaximaColores ; i++)
             {
-                if (t == t1)
+                if (null != p1._colores.GetValue(i) && p1._colores[i] == t1)
                 {
                     return true;
                 }
@@ -53,47 +54,114 @@ namespace Clase07
             return false;
         }
 
+        //SI LA TEMPERA NO ESTA EN LA PALETA ES TRUE
         public static bool operator !=(Paleta p1, Tempera t1)
         {
             return !(p1==t1);
         }
+
+        //SI LA TEMPERA NO ESTA EN LA PALETA LA AGREGA
+        //SI ESTA SUMA LA CANTIDAD
+        public static Paleta operator +(Paleta p1, Tempera t1)
+        {
+            if (!t1.Equals(null))
+            {
+                if (p1 != t1)
+                {
+                    int emptyPlace = filledPlaces(p1);
+
+                    if (emptyPlace < p1._cantidadMaximaColores)
+                    {
+                        p1._colores[emptyPlace] = t1;
+                    }
+                }
+                else
+                {
+                    for (int i = 0; i < filledPlaces(p1); i++)
+                    {
+                        if (p1._colores[i] == t1)
+                        {
+                            p1._colores[i]+=t1;
+                            break;
+                        }
+                    }  
+                }
+            }
+            return p1;
+        }
+
+        // SI HAY DOS TEMPERAS IGUALES SUMA LAS CANTIDADES
+        // NO SE REPITEN LAS TEMPERAS
+        // SE ELIMINAN LOS NULL
+        public static Paleta operator +(Paleta p1, Paleta p2)
+        {
+            Paleta paletaAuxiliar = new Paleta((sbyte)(p1._cantidadMaximaColores + p2._cantidadMaximaColores));
+
+            for (int i = 0; i < filledPlaces(p1); i++)
+			{
+                paletaAuxiliar += p1._colores[i];
+            }
+
+            for (int i = 0; i < filledPlaces(p2); i++)
+            {
+                paletaAuxiliar += p2._colores[i];
+            }
+
+            Paleta paletaReturn = new Paleta((sbyte)(filledPlaces(paletaAuxiliar)));
+
+            for (int i = 0; i < paletaReturn._cantidadMaximaColores; i++)
+            {
+                paletaReturn += paletaAuxiliar._colores[i];
+            }
+
+            compactPalet(paletaReturn);
+
+            return paletaReturn;
+        }
+
+        //SE ELIMINA LA TEMPERA y COMPACTA
+        public static Paleta operator -(Paleta p1, Tempera t1)
+        {
+            if (p1 == t1)
+            {
+                for (int i = 0; i < p1._cantidadMaximaColores; i++)
+                {
+                    if (p1._colores[i] == t1)
+                    {
+                        p1._colores[i] = null;
+                        compactPalet(p1);
+                        break;
+                    }
+                }
+            }
+            return p1;
+        }
+
 
 
         #endregion
 
         #region METODOS
 
+        //
         private static string Mostrar(Paleta p1)
         {
-            string ret = "La cantidad de temperas es " + p1._cantidadMaximaColores + "\n";
+            string ret = "La cantidad de temperas es " + p1._cantidadMaximaColores + "\n\n";
 
-            foreach (Tempera t in p1._colores)
+            for (int i=0; i < filledPlaces(p1) ; i++)
             {
-                ret += t;
+                ret += p1._colores[i] + "\n";
             }
             return ret;
         }
 
-        public static Paleta operator +(Paleta p1, Tempera t1)
+        //
+        private static int filledPlaces(Paleta p1)
         {
-            if (p1 != t1)
+            int firstNull = 0;
+            for (int i = 0; i < p1._cantidadMaximaColores; i++)
             {
-                int index = nullSearcher(p1);
-
-                if (index >= 0)
-                {
-                    p1._colores[index] = t1;
-                }
-            }
-            return p1;
-        }
-
-        private static int nullSearcher(Paleta p1)
-        {
-            int firstNull = -1;
-            foreach (Tempera t in p1._colores)
-            {
-                if (t.Equals(null))
+                if (null != p1._colores.GetValue(i))
                 {
                     firstNull++;
                 }
@@ -101,6 +169,32 @@ namespace Clase07
             return firstNull;
         }
 
+        //
+        private static void compactPalet(Paleta p1)
+        {
+            int index = filledPlaces(p1);
+            if (index < p1._cantidadMaximaColores)
+            {
+                for (int i = index; i < p1._cantidadMaximaColores-1; i++)
+                {
+                    p1._colores[i] = p1._colores[i + 1];
+                }
+            }
+        }
+        
+        #endregion
+
+        #region PROPIEDADES
+
+        //Propiedad de solo lectura que retorna la cantidad de colores
+        public int cantidadColores
+        {
+            get { return this._cantidadMaximaColores; }
+            //set { this._cantidadMaximaColores = value; }
+        }
+
+
+        
         #endregion
 
     }

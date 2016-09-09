@@ -116,5 +116,18 @@ namespace Clase07
         }
 
         #endregion
+
+        #region PROPIEDADES
+
+        public string Marca
+        {
+            get {return this._marca;}
+            set {this._marca = value;}
+        }
+
+        public float Precio { get; set; }
+
+        #endregion
+
     }
 }
