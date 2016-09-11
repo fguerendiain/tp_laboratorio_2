@@ -1,0 +1,9 @@
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\bin\Debug\Indexadores.Array.2016.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\bin\Debug\Indexadores.Array.2016.exe
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\bin\Debug\Indexadores.Array.2016.pdb
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\obj\Debug\Indexadores.Array.2016.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\obj\Debug\Indexadores.Array.2016.exe
+D:\CSharp\2016\###Segundo Cuatri\Indexadores.Array.2016\Indexadores.Array.2016\obj\Debug\Indexadores.Array.2016.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase07\Indexadores.Array.2016\Indexadores.Array.2016\bin\Debug\Indexadores.Array.2016.exe.config
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase07\Indexadores.Array.2016\Indexadores.Array.2016\obj\Debug\Indexadores.Array.2016.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase07\Indexadores.Array.2016\Indexadores.Array.2016\obj\Debug\Indexadores.Array.2016.pdb

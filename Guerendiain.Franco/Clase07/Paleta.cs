@@ -193,8 +193,36 @@ namespace Clase07
             //set { this._cantidadMaximaColores = value; }
         }
 
+        #endregion
 
-        
+        #region PROPIEDAD INDEXADOR
+
+        public Tempera this[int indice]
+        {
+            //ME PERMITE RETORNAR UNA TEMPERA CARGANDO EL SUBINDICE DIRECTAMENTE SOBRE UN OBJETO TIPO PALETA
+            get
+            {
+                if (indice > this._cantidadMaximaColores || indice < 0)
+                    return null;
+                else
+                    return this._colores[indice];
+            }
+
+            //ME PERMITE CARGAR SETEAR VALORES A UNA INSTANCIA DE TEMPERA LLAMANDOLA DIRECTAMENTE DESDE EL OBJETO PALETA QUE CONTIENE SU ARRAY
+            set
+            {
+                if (indice >= 0 && indice < this._cantidadMaximaColores)
+                {
+                    this._colores[indice] = value;
+                }
+                else
+                {
+                    Console.WriteLine("No se puede asignar a este elemento");
+                    Console.ReadLine();
+                }
+            }
+        }
+
         #endregion
 
     }
