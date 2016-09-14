@@ -1,0 +1,11 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form1.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Properties.Resources.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.pdb
