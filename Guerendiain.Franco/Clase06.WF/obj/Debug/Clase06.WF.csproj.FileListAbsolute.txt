@@ -7,3 +7,11 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Form1.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.pdb

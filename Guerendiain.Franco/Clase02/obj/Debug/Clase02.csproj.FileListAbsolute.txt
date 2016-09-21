@@ -10,3 +10,8 @@ C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franc
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02\bin\Debug\Clase02.exe
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02\bin\Debug\Clase02.pdb
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02\bin\Debug\Clase02.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02\bin\Debug\Clase02.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02\obj\Debug\Clase02.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02\obj\Debug\Clase02.pdb

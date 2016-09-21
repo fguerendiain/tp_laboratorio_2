@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Empleado.cs" />
+    <Compile Include="Empresa.cs" />
     <Compile Include="Enumerado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

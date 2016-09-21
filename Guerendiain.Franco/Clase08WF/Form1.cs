@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Empleado;
 
 namespace Clase08WF
 {
@@ -29,7 +30,7 @@ namespace Clase08WF
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            cmbPuesto.DataSource = Enum.GetValues(typeof(EPuestoJerarquico));
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -39,7 +40,12 @@ namespace Clase08WF
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.txtNombre.Clear();
+            this.txtApellido.Clear();
+            this.mtxtLegajo.Clear();
+            this.cmbPuesto.SelectedText = "";
+            this.mtxtSalario.Clear();
+            this.rtxtConsola.Clear();
         }
 
         private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
@@ -50,6 +56,16 @@ namespace Clase08WF
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAgregarItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnEmpresa_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

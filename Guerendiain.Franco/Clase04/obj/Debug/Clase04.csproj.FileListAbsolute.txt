@@ -4,3 +4,8 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.pd
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase04\bin\Debug\Clase04.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase04\obj\Debug\Clase04.pdb

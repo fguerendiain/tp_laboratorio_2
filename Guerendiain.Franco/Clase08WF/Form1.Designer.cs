@@ -36,12 +36,12 @@
             this.btnEmpresa = new System.Windows.Forms.Button();
             this.btnLimpiarFrom = new System.Windows.Forms.Button();
             this.btnAgregarItem = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.txtApellido = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.mtxtLegajo = new System.Windows.Forms.MaskedTextBox();
+            this.cmbPuesto = new System.Windows.Forms.ComboBox();
+            this.mtxtSalario = new System.Windows.Forms.MaskedTextBox();
+            this.rtxtConsola = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // lblNombre
@@ -99,6 +99,7 @@
             this.btnEmpresa.TabIndex = 5;
             this.btnEmpresa.Text = "Empresa";
             this.btnEmpresa.UseVisualStyleBackColor = true;
+            this.btnEmpresa.Click += new System.EventHandler(this.btnEmpresa_Click);
             // 
             // btnLimpiarFrom
             // 
@@ -118,65 +119,66 @@
             this.btnAgregarItem.TabIndex = 7;
             this.btnAgregarItem.Text = "Agregar";
             this.btnAgregarItem.UseVisualStyleBackColor = true;
+            this.btnAgregarItem.Click += new System.EventHandler(this.btnAgregarItem_Click);
             // 
-            // textBox1
+            // txtApellido
             // 
-            this.textBox1.Location = new System.Drawing.Point(103, 35);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(181, 20);
-            this.textBox1.TabIndex = 8;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.txtApellido.Location = new System.Drawing.Point(103, 35);
+            this.txtApellido.Name = "txtApellido";
+            this.txtApellido.Size = new System.Drawing.Size(181, 20);
+            this.txtApellido.TabIndex = 8;
+            this.txtApellido.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // txtNombre
             // 
-            this.textBox2.Location = new System.Drawing.Point(103, 6);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(181, 20);
-            this.textBox2.TabIndex = 9;
+            this.txtNombre.Location = new System.Drawing.Point(103, 6);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(181, 20);
+            this.txtNombre.TabIndex = 9;
             // 
-            // maskedTextBox1
+            // mtxtLegajo
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(103, 65);
-            this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(181, 20);
-            this.maskedTextBox1.TabIndex = 10;
-            this.maskedTextBox1.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
+            this.mtxtLegajo.Location = new System.Drawing.Point(103, 65);
+            this.mtxtLegajo.Name = "mtxtLegajo";
+            this.mtxtLegajo.Size = new System.Drawing.Size(181, 20);
+            this.mtxtLegajo.TabIndex = 10;
+            this.mtxtLegajo.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
             // 
-            // comboBox1
+            // cmbPuesto
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(103, 100);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(181, 21);
-            this.comboBox1.TabIndex = 11;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.cmbPuesto.FormattingEnabled = true;
+            this.cmbPuesto.Location = new System.Drawing.Point(103, 100);
+            this.cmbPuesto.Name = "cmbPuesto";
+            this.cmbPuesto.Size = new System.Drawing.Size(181, 21);
+            this.cmbPuesto.TabIndex = 11;
+            this.cmbPuesto.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
-            // maskedTextBox2
+            // mtxtSalario
             // 
-            this.maskedTextBox2.Location = new System.Drawing.Point(103, 135);
-            this.maskedTextBox2.Name = "maskedTextBox2";
-            this.maskedTextBox2.Size = new System.Drawing.Size(100, 20);
-            this.maskedTextBox2.TabIndex = 12;
+            this.mtxtSalario.Location = new System.Drawing.Point(103, 135);
+            this.mtxtSalario.Name = "mtxtSalario";
+            this.mtxtSalario.Size = new System.Drawing.Size(100, 20);
+            this.mtxtSalario.TabIndex = 12;
             // 
-            // richTextBox1
+            // rtxtConsola
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(1, 218);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(290, 179);
-            this.richTextBox1.TabIndex = 13;
-            this.richTextBox1.Text = "";
+            this.rtxtConsola.Location = new System.Drawing.Point(1, 218);
+            this.rtxtConsola.Name = "rtxtConsola";
+            this.rtxtConsola.Size = new System.Drawing.Size(290, 179);
+            this.rtxtConsola.TabIndex = 13;
+            this.rtxtConsola.Text = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(291, 398);
-            this.Controls.Add(this.richTextBox1);
-            this.Controls.Add(this.maskedTextBox2);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.maskedTextBox1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.rtxtConsola);
+            this.Controls.Add(this.mtxtSalario);
+            this.Controls.Add(this.cmbPuesto);
+            this.Controls.Add(this.mtxtLegajo);
+            this.Controls.Add(this.txtNombre);
+            this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.btnAgregarItem);
             this.Controls.Add(this.btnLimpiarFrom);
             this.Controls.Add(this.btnEmpresa);
@@ -203,12 +205,12 @@
         private System.Windows.Forms.Button btnEmpresa;
         private System.Windows.Forms.Button btnLimpiarFrom;
         private System.Windows.Forms.Button btnAgregarItem;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.MaskedTextBox maskedTextBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.MaskedTextBox maskedTextBox2;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.TextBox txtApellido;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.MaskedTextBox mtxtLegajo;
+        private System.Windows.Forms.ComboBox cmbPuesto;
+        private System.Windows.Forms.MaskedTextBox mtxtSalario;
+        private System.Windows.Forms.RichTextBox rtxtConsola;
     }
 }
 

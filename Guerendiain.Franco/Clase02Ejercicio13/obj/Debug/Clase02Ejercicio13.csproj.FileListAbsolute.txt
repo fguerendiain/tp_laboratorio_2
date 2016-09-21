@@ -10,3 +10,9 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.pdb

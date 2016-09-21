@@ -9,3 +9,15 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08W
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form1.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form2.resources
