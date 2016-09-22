@@ -7,3 +7,8 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Emple
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.pdb
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.dll
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.pdb
