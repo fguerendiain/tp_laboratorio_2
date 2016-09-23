@@ -33,3 +33,4 @@ C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franc
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form2.resources
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Properties.Resources.resources
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form2.resources

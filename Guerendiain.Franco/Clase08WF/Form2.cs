@@ -29,7 +29,7 @@ namespace Clase08WF
             float ganancia;
             float.TryParse(this.mtxtGanancias.Text, out ganancia);
             Empresa e1 = new Empresa(this.txtRazonSocial.Text, this.txtDireccion.Text, ganancia);
-            Form2.ActiveForm.Des //INTENTANDO CERRAR LA VENTANA PARA ABRIR EL FORM1
+           // Form2.ActiveForm.Des; //INTENTANDO CERRAR LA VENTANA PARA ABRIR EL FORM1
         }
     }
 }

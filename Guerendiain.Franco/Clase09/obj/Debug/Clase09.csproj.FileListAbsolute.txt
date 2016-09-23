@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\Clase09.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\Clase09.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\Clase09.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\VehiculosLib.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\VehiculosLib.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.pdb

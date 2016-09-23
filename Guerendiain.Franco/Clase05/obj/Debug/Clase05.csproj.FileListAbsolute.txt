@@ -3,7 +3,6 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.ex
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.pdb
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe.config
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.pdb
