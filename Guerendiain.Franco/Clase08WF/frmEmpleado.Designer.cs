@@ -1,7 +1,9 @@
 ﻿namespace Clase08WF
 {
-    partial class Form1
+    partial class frmEmpleado
     {
+        
+    
         /// <summary>
         /// Required designer variable.
         /// </summary>

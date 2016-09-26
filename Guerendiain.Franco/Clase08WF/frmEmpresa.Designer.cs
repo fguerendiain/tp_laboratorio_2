@@ -1,6 +1,6 @@
 ﻿namespace Clase08WF
 {
-    partial class Form2
+    partial class frmEmpresa
     {
         /// <summary>
         /// Required designer variable.

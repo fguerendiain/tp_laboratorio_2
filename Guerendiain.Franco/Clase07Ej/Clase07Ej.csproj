@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{305E37EF-9334-4A9E-82CE-E804A8C293A4}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <ProjectGuid>{7EB473C6-C53E-4145-8E24-8FC7C8F4F2EA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Clase08WF</RootNamespace>
-    <AssemblyName>Clase08WF</AssemblyName>
+    <RootNamespace>Clase07Ej</RootNamespace>
+    <AssemblyName>Clase07Ej</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -38,59 +38,16 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmEmpleado.Designer.cs">
-      <DependentUpon>frmEmpleado.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmEmpresa.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmEmpresa.Designer.cs">
-      <DependentUpon>frmEmpresa.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Cajon.cs" />
+    <Compile Include="Fruta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmEmpleado.resx">
-      <DependentUpon>frmEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmEmpresa.resx">
-      <DependentUpon>frmEmpresa.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Empleado\Empleado.csproj">
-      <Project>{7da8d68b-9148-49f9-b9de-83a2a6361ef6}</Project>
-      <Name>Empleado</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

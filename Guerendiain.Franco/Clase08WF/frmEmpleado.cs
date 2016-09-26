@@ -11,12 +11,14 @@ using Empleado;
 
 namespace Clase08WF
 {
-    public partial class Form1 : Form
+    public partial class frmEmpleado : Form
     {
-        public Form1()
+        public frmEmpleado()
         {
             InitializeComponent();
         }
+
+        
 
         private void label1_Click(object sender, EventArgs e)
         {

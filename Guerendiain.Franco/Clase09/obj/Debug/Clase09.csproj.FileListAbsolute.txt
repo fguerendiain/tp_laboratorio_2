@@ -6,3 +6,6 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\VehiculosL
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase09\bin\Debug\Clase09.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase09\obj\Debug\Clase09.pdb

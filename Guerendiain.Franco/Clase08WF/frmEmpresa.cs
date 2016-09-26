@@ -11,10 +11,10 @@ using Empleado;
 
 namespace Clase08WF
 {
-    public partial class Form2 : Form
+    public partial class frmEmpresa : Form
     {
 
-        public Form2()
+        public frmEmpresa()
         {
             InitializeComponent();
         }
