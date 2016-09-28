@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.pdb

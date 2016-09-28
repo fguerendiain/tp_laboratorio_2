@@ -9,41 +9,50 @@ namespace Clase07Ej
     class Cajon
     {
         #region ATRIBUTOS
-        private Fruta _frutas;
+        private List<Fruta> _frutas;
         private int _volumen;
         #endregion
 
         #region CONSTRUCTOR
         private Cajon()
         {
-            _frutas = new Fruta();
+            _frutas = new List<Fruta>();
         }
 
-        public Cajon(int volumen)
+        public Cajon(int volumen) : this()
         {
             _volumen = volumen;
         }
         #endregion
 
         #region METODOS
-        public CalcularEspacioDisponible()
+        public int CalcularEspacioDisponible()
         {
-
+            return _volumen - _frutas.Count;
         }
 
-        public MostrarContenido()
+        public string MostrarContenido()
         {
+            string cadena = "Cantidad de Frutas: " + _frutas.Count + "\nEspacio total del Cajon: " + _volumen + "\n\n";
+            foreach (Fruta t in _frutas)
+            {
+                cadena += "\nFruta nº " + _frutas.IndexOf(t) + "\n\nCantidad: " + t.volumen + "\nPeso : " + t.peso + "\n---------------\n\n";             
+            }
 
+            return cadena;
         }
 
-        public AgregarFruta()
+        public List<Fruta> AgregarFruta(Fruta nuevaFruta)
         {
-
+            _frutas.Add(nuevaFruta);
+            return _frutas;
         }
 
-        public QuitarFruta()
+        public List<Fruta> QuitarFruta(Fruta nofruta)
         {
-
+            int rnd = new Random().Next(_frutas.Count);
+            _frutas.Remove(_frutas.ElementAt(rnd));
+            return _frutas;
         }
         #endregion
     }

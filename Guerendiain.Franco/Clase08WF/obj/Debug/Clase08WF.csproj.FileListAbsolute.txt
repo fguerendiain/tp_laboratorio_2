@@ -17,10 +17,8 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.dll
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Empleado.pdb
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csprojResolveAssemblyReference.cache
-C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form1.resources
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Properties.Resources.resources
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
-C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form2.resources
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\bin\Debug\Clase08WF.exe.config
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.exe
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.pdb
@@ -34,3 +32,5 @@ C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franc
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Properties.Resources.resources
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.csproj.GenerateResource.Cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.Form2.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.frmEmpleado.resources
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase08WF\obj\Debug\Clase08WF.frmEmpresa.resources

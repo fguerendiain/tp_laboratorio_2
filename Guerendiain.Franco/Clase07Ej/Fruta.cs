@@ -16,23 +16,8 @@ namespace Clase07Ej
         #region CONSTRUCTORES
         public Fruta()
         {
-            peso = Aleatorio(1);
-            volumen = Aleatorio(2);
-        }
-        #endregion
-
-        #region METODOS
-        private static int Aleatorio(byte option)
-        {
-            switch (option)
-            {
-                case 1:
-                    return new Random().Next(1,5);
-
-                case 2:
-                    return new Random().Next(1, 10);
-            }
-            return -1;
+            peso = new Random().Next(1,5);
+            volumen = new Random().Next(1, 10);
         }
         #endregion
     }
