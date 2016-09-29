@@ -3,3 +3,8 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.pdb
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.exe
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\obj\Debug\Clase07Ej.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase07Ej\bin\Debug\Clase07Ej.pdb

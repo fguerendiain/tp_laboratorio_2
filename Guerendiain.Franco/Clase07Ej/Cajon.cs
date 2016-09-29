@@ -19,7 +19,7 @@ namespace Clase07Ej
             _frutas = new List<Fruta>();
         }
 
-        public Cajon(int volumen) : this()
+        public Cajon(int volumen): this()
         {
             _volumen = volumen;
         }
@@ -48,7 +48,7 @@ namespace Clase07Ej
             return _frutas;
         }
 
-        public List<Fruta> QuitarFruta(Fruta nofruta)
+        public List<Fruta> QuitarFruta()
         {
             int rnd = new Random().Next(_frutas.Count);
             _frutas.Remove(_frutas.ElementAt(rnd));

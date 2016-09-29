@@ -11,13 +11,19 @@ namespace Clase07Ej
         #region ATRIBUTOS
         public float peso;
         public int volumen;
+        private static Random _rnd;
         #endregion
 
         #region CONSTRUCTORES
+        static Fruta()
+        {
+            _rnd = new Random();
+        }
+        
         public Fruta()
         {
-            peso = new Random().Next(1,5);
-            volumen = new Random().Next(1, 10);
+            peso = Fruta._rnd.Next(1,5);
+            volumen = Fruta._rnd.Next(1, 10);
         }
         #endregion
     }

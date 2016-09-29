@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiculosLib", "VehiculosLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase07Ej", "Clase07Ej\Clase07Ej.csproj", "{7EB473C6-C53E-4145-8E24-8FC7C8F4F2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloPrimerParcial", "ModeloPrimerParcial\ModeloPrimerParcial.csproj", "{BFD95310-70DC-468D-BD68-60EEFF73E75F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,16 @@ Global
 		{7EB473C6-C53E-4145-8E24-8FC7C8F4F2EA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7EB473C6-C53E-4145-8E24-8FC7C8F4F2EA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{7EB473C6-C53E-4145-8E24-8FC7C8F4F2EA}.Release|x86.ActiveCfg = Release|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BFD95310-70DC-468D-BD68-60EEFF73E75F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
