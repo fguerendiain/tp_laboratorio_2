@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
