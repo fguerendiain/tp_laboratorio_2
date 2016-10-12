@@ -1,0 +1,28 @@
+//crear un proyecto de tipo class library que contenga:
+
+
+1-Clase Numero
+* protected int _numero;
+* prop. Lectura
+* const. 1 parametro
+* sobrecarga + (Numero, Numero) : int
+* sobrecarga - (Numero, Numero) : int
+* sobrecarga / (Numero, Numero) : double
+* sobrecarga * (Numero, Numero) : int
+
+
+2-Clase ColectoraDeNumeros
+* protected list<Numero> _numeros
+* prop. autodefinida TipoNumero --> * ETipoNumero{Par, Impar, Positivo, Negativo, Cero}
+* constr. por default (privado)
+* constr. un parametro ETipoNumero.
+
+* sobrecarga + (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+* sobrecarga - (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+
+*polimorfismo ToString
+
+
+
+
+
