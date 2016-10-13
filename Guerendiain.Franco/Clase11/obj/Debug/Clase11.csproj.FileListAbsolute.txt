@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\Clase11.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\Clase11.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\Clase11.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\dllNumeros.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\dllNumeros.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.pdb

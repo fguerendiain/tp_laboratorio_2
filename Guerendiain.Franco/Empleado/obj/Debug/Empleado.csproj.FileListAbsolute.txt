@@ -1,6 +1,5 @@
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.dll
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.pdb
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.dll
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.pdb
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Empleado\bin\Debug\Empleado.dll

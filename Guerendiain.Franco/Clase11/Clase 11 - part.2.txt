@@ -1,0 +1,11 @@
+//crear un proyecto de tipo class library que contenga:
+
+
+3-Agregar Props. de solo lectura en ColectoraDeNumeros para:
+* obtener la suma del primer numero contra todos los numeros
+* obtener la resta del primer numero contra todos los numeros
+* obtener la multiplicacion del primer numero contra todos los numeros
+* obtener la division del primer numero contra todos los numeros
+
+* metodo de clase protegido ObtenerResultadoColectoraDeNumeros, ETipoResultado) : double --> ETipoResultado{Suma, Resta, Multiplicacion, Division} 
+

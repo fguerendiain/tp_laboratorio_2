@@ -1,4 +1,3 @@
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ModeloPrimerParcial\obj\Debug\ModeloPrimerParcial.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ModeloPrimerParcial\bin\Debug\ModeloPrimerParcial.exe.config
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ModeloPrimerParcial\bin\Debug\ModeloPrimerParcial.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ModeloPrimerParcial\bin\Debug\ModeloPrimerParcial.pdb

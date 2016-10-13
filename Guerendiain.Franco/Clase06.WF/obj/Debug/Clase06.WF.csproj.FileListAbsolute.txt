@@ -1,7 +1,6 @@
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.config
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.pdb
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Form1.resources
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Properties.Resources.resources
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
