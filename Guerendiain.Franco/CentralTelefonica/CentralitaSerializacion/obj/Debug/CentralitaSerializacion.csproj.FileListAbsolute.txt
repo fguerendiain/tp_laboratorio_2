@@ -1,0 +1,5 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb

@@ -73,7 +73,7 @@ namespace CentralitaPolimorfismo
         #region SOBRECARGA DE OPERADORES
         public static bool operator ==(Llamada llamadaUno, Llamada llamadaDos)
         {
-            return ((llamadaUno.Equals(llamadaUno)) && (llamadaDos.Equals(llamadaDos)) && (llamadaUno.NroOrigen == llamadaDos.NroOrigen) && (llamadaUno.NroDestino == llamadaDos.NroDestino));
+            return ((llamadaUno.Equals(llamadaDos)) && (llamadaUno.NroOrigen == llamadaDos.NroOrigen) && (llamadaUno.NroDestino == llamadaDos.NroDestino));
         }
 
         public static bool operator !=(Llamada llamadaUno, Llamada llamadaDos)

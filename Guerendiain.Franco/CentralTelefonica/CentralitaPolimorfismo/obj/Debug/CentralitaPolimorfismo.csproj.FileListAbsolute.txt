@@ -10,3 +10,6 @@ C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franc
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache

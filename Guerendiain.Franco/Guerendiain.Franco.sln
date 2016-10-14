@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllNumeros", "dllNumeros\dl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase11", "Clase11\Clase11.csproj", "{CADA4307-885B-44F2-ABBF-E8AE960F9B0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase15", "Clase15\Clase15.csproj", "{9C89FDF2-F485-4D20-8849-42A18846CB46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,6 +205,16 @@ Global
 		{CADA4307-885B-44F2-ABBF-E8AE960F9B0A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{CADA4307-885B-44F2-ABBF-E8AE960F9B0A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{CADA4307-885B-44F2-ABBF-E8AE960F9B0A}.Release|x86.ActiveCfg = Release|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9C89FDF2-F485-4D20-8849-42A18846CB46}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
