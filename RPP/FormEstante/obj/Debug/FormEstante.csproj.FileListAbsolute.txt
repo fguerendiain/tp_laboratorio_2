@@ -1,0 +1,13 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\FormEstante\obj\Debug\FormEstante.pdb

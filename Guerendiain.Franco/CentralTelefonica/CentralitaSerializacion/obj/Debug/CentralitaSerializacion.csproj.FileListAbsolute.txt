@@ -3,3 +3,6 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\Centralita
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe.config
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
