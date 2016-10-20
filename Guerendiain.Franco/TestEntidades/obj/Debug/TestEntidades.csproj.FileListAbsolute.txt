@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\bin\Debug\TestEntidades.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\bin\Debug\Entidades.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\bin\Debug\Entidades.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\obj\Debug\TestEntidades.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestEntidades\obj\Debug\TestEntidades.pdb

@@ -11,3 +11,4 @@ C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franc
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.dll
 C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
