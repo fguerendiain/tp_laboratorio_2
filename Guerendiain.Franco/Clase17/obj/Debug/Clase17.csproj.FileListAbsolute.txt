@@ -1,4 +1,3 @@
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase17\obj\Debug\Clase17.csprojResolveAssemblyReference.cache
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase17\bin\Debug\Clase17.exe.config
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase17\bin\Debug\Clase17.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase17\bin\Debug\Clase17.pdb

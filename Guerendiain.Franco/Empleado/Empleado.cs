@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Empleado
+namespace Clase18Cl
 {
     public class Empleado
     {
@@ -29,10 +29,11 @@ namespace Empleado
         #endregion
 
         #region METODO
-        public string Mostrar(Empleado employe)
+        public static string Mostrar(Empleado employe)
         {
             return "NOMBRE: " + employe._nombre + "\nAPELLIDO: " + employe._apellido + "\nLEGAJO: " + employe._legajo + "Puesto: " + employe._puesto + "\nSALARIO: $" + employe._salario + "\n----------------\n\n";
         }
+
         #endregion
 
         #region SOBRECARGA DE OPERADORES
