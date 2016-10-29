@@ -1,0 +1,17 @@
+        #region ATRIBBUTOS
+        #endregion
+
+        #region PROPIEDADES
+        #endregion
+
+        #region CONSTRUCTORES
+        #endregion
+        
+        #region METODOS
+        #endregion
+        
+        #region SOBRECARGA DE METODOS
+        #endregion
+        
+        #region SOBRECARGA DE OPERADORES
+        #endregion

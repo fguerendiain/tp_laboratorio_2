@@ -6,3 +6,6 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\dllNumeros
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\dllNumeros.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase11\bin\Debug\Clase11.exe.config
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.exe
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase11\obj\Debug\Clase11.pdb
