@@ -22,12 +22,28 @@ namespace EntidadesAbstractas
         #endregion
 
         #region METODOS
+        public virtual string MostrarDatos();
+        public virtual string ParticiparEnClase();
+
         #endregion
 
         #region SOBRECARGA DE METODOS
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
         #endregion
 
         #region SOBRECARGA DE OPERADORES
+        public static bool operator ==(PersonaGimnasia pg1, PersonaGimnasia pg2)
+        {
+            return true;
+        }
+
+        public static bool operator !=(PersonaGimnasia pg1, PersonaGimnasia pg2)
+        {
+            return !(pg1==pg2);
+        }
         #endregion
 
     }
