@@ -1,0 +1,11 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.Properties.Resources.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.csproj.GenerateResource.Cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\bin\Debug\Clase18Wf.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\bin\Debug\Clase18Wf.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\bin\Debug\Clase18Wf.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\bin\Debug\Clase18Cl.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\bin\Debug\Clase18Cl.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Wf\obj\Debug\Clase18Wf.Form1.resources

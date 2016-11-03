@@ -2,3 +2,4 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\VehiculosLib\bin\Debug\Vehic
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\VehiculosLib\bin\Debug\VehiculosLib.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\VehiculosLib\obj\Debug\VehiculosLib.dll
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\VehiculosLib\obj\Debug\VehiculosLib.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\VehiculosLib\obj\Debug\VehiculosLib.csprojResolveAssemblyReference.cache

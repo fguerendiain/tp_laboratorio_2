@@ -14,3 +14,4 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.exe
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csprojResolveAssemblyReference.cache

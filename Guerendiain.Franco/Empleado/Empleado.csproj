@@ -7,7 +7,7 @@
     <ProjectGuid>{7DA8D68B-9148-49F9-B9DE-83A2A6361EF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Empleado</RootNamespace>
+    <RootNamespace>Clase18Cl</RootNamespace>
     <AssemblyName>Empleado</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -42,6 +42,7 @@
     <Compile Include="Empleado.cs" />
     <Compile Include="Empresa.cs" />
     <Compile Include="Enumerado.cs" />
+    <Compile Include="IGrafica.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

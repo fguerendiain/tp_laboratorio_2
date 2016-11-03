@@ -1,0 +1,4 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\RPP\Entidades\obj\Debug\Entidades.pdb

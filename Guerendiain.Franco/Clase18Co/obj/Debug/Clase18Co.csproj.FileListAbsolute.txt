@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\bin\Debug\Clase18Co.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\bin\Debug\Clase18Co.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\bin\Debug\Clase18Co.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\bin\Debug\Clase18Cl.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\bin\Debug\Clase18Cl.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\obj\Debug\Clase18Co.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\obj\Debug\Clase18Co.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18Co\obj\Debug\Clase18Co.pdb

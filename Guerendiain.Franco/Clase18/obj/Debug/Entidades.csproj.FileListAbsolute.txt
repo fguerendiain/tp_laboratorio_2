@@ -1,0 +1,4 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18\bin\Debug\Entidades.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18\bin\Debug\Entidades.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18\obj\Debug\Entidades.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase18\obj\Debug\Entidades.pdb
