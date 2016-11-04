@@ -1,0 +1,7 @@
+Nombre  : Beto
+Apellido: Cuevas
+Legajo  : 31757094
+Empleado de Accionista
+Salario : $4564321
+******************
+

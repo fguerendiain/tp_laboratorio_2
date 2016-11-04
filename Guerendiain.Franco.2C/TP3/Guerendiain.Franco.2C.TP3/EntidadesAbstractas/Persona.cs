@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace EntidadesAbstractas
 {
@@ -68,24 +69,49 @@ namespace EntidadesAbstractas
         
         #endregion
         
-        
         #region METODOS------------------------------
-        protected int ValidarDni(ENacionalidad nacionalidad, int dato);
-        protected int ValidarDni(ENacionalidad nacionalidad, string dato);
-        protected string ValidarNombreApellido(string dato);
+        protected int ValidarDni(ENacionalidad nacionalidad, int dato)
+        {
+                if (nacionalidad == ENacionalidad.Argentino && dato > 0 && dato < 89999999)
+                {
+                    return dato;
+                }
+                
+                throw new DniInvalidoException;
+            
+        }
+
+        protected int ValidarDni(ENacionalidad nacionalidad, string dato)
+        {
+            this.StringToDNI = dato;
+            return ValidarDni(nacionalidad, dato);
+        }
+
+        protected string ValidarNombreApellido(string dato)
+        {
+            if (Regex.IsMatch(dato, @"^[a-zA-Z]+$"))
+            {
+                return "";
+            }
+            return dato;
+        }
+
+
         #endregion
-        
         
         #region SOBRECARGA DE METODOS----------------
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder cadena = new StringBuilder();
+            cadena.AppendLine("NOMBRE COMPLETO: " + this._apellido + ", " + this._nombre);
+
+            return cadena.ToString();
         }
         #endregion
         
         #region ENUMERADOS
 
-        public enum ENacionalidad { }
+        public enum ENacionalidad {Argentino, Extranjero}
 
         #endregion
 

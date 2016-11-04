@@ -2,4 +2,3 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades\bin\Debug\Entidade
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades\bin\Debug\Entidades.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades\obj\Debug\Entidades.dll
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades\obj\Debug\Entidades.pdb
-D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

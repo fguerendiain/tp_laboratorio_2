@@ -1,0 +1,4 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19bis\bin\Debug\Clase19bis.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19bis\bin\Debug\Clase19bis.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19bis\obj\Debug\Clase19bis.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19bis\obj\Debug\Clase19bis.pdb
