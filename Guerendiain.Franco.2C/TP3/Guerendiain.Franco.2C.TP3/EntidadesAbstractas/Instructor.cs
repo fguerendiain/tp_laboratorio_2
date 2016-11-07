@@ -6,23 +6,25 @@ using System.Threading.Tasks;
 
 namespace EntidadesAbstractas
 {
-    sealed class Alumno : PersonaGimnasio
+    sealed class Instructor : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected EClases _claseQueToma;
-        protected EEstadoCuenta _estadoCuenta;
+        protected Queue<EClases> _clasesDelDia;
+        protected static Random _random;
+
         #endregion
 
         #region --------------CONSTRUCTORES------------
-
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma): base(id,nombre,apellido,dni,nacionalidad)
+        static Instructor()
         {
-            this._claseQueToma = claseQueToma;
+            _random = new Random();
         }
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma, EEstadoCuenta estadoCuenta): this(id,nombre,apellido,dni,nacionalidad,claseQueToma)
+        public Instructor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
+            : base(id, nombre, apellido, dni, nacionalidad)
         {
-            this._estadoCuenta = estadoCuenta;
+            _clasesDelDia.Dequeue();
+            _clasesDelDia.Dequeue();
         }
 
         #endregion
@@ -30,8 +32,14 @@ namespace EntidadesAbstractas
         #region -----------------METODOS---------------
         protected string ParticiparEnClase()
         {
-            return "TOMA CLASES DE " + this._claseQueToma.ToString();
+            return "CLASE DEL DIA " + this._clasesDelDia;
         }
+
+        protected void _randomClases()
+        {
+            _random.Next();
+        }
+
         #endregion
 
         #region ----------SOBRECARGA DE METODOS--------
@@ -39,7 +47,6 @@ namespace EntidadesAbstractas
         {
             StringBuilder cadena = new StringBuilder();
             cadena.AppendLine(base.MostrarDatos());
-            cadena.AppendLine("ESTADO DE CUENTA: " + this._estadoCuenta.ToString());
             cadena.AppendLine(this.ParticiparEnClase());
 
             return cadena.ToString();
@@ -52,16 +59,6 @@ namespace EntidadesAbstractas
         #endregion
 
         #region ---------SOBRECARGA DE OPERADORES------
-        public static bool operator ==(Alumno alumno, EClases clase)
-        {
-            return (alumno._claseQueToma == clase && alumno._estadoCuenta != EEstadoCuenta.Deudor);
-        }
-
-        public static bool operator !=(Alumno alumno, EClases clase)
-        {
-            return !(alumno._claseQueToma == clase);
-        }
-
         #endregion
 
         #region ----------------ENUMERADOS-------------
@@ -73,12 +70,6 @@ namespace EntidadesAbstractas
             Yoga
         }
 
-        public enum EEstadoCuenta
-        {
-            MesPrueba,
-            Deudor,
-            AlDia
-        }
         #endregion
     }
 }

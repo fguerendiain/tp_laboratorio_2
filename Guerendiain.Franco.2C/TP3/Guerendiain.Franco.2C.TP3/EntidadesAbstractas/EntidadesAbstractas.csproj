@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alumno.cs" />
+    <Compile Include="Instructor.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="PersonaGimnasio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

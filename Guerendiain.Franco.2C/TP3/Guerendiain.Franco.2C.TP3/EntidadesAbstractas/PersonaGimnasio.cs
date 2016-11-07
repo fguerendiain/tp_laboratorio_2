@@ -8,11 +8,11 @@ namespace EntidadesAbstractas
 {
     abstract class PersonaGimnasio : Persona
     {
-        #region ATRIBBUTOS
+        #region ---------------ATRIBBUTOS--------------
         protected int _identificador;
         #endregion
 
-        #region CONSTRUCTORES
+        #region --------------CONSTRUCTORES------------
         public PersonaGimnasio(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
         : base(nombre, apellido, dni, nacionalidad)
         {
@@ -21,29 +21,39 @@ namespace EntidadesAbstractas
 
         #endregion
 
-        #region METODOS
-        public virtual string MostrarDatos();
-        public virtual string ParticiparEnClase();
+        #region -----------------METODOS---------------
+        protected virtual string MostrarDatos()
+        {
+            StringBuilder cadena = new StringBuilder();
+            cadena.AppendLine(this.ToString());
+            cadena.AppendLine("CARNET NUMERO: " + this._identificador);
+
+            return cadena.ToString();
+
+        }
+            
+        public abstract string ParticiparEnClase();
 
         #endregion
 
-        #region SOBRECARGA DE METODOS
+        #region ----------SOBRECARGA DE METODOS--------
         public override bool Equals(object obj)
         {
             return base.Equals(obj);
         }
         #endregion
 
-        #region SOBRECARGA DE OPERADORES
+        #region ---------SOBRECARGA DE OPERADORES------
         public static bool operator ==(PersonaGimnasio pg1, PersonaGimnasio pg2)
         {
-            return true;
+            return (pg1.GetType() == pg2.GetType() && ((pg1._identificador == pg2._identificador) || (pg1._dni == pg2._dni)));
         }
 
         public static bool operator !=(PersonaGimnasio pg1, PersonaGimnasio pg2)
         {
             return !(pg1==pg2);
         }
+
         #endregion
 
     }

@@ -9,14 +9,14 @@ namespace EntidadesAbstractas
 {
     abstract class Persona
     {
-        #region ATRIBBUTOS---------------------------
+        #region --------------ATRIBBUTOS--------------
         protected string _apellido;
         protected int _dni;
         protected ENacionalidad _nacionalidad;
         protected string _nombre;
         #endregion
 
-        #region PROPIEDADES--------------------------
+        #region ---------------PROPIEDADES-------------
         string Apellido
         {
             get {return this._apellido;}
@@ -47,7 +47,7 @@ namespace EntidadesAbstractas
         }
         #endregion
 
-        #region CONSTRUCTORES------------------------
+        #region --------------CONSTRUCTORES------------
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
             this._nombre = nombre;
@@ -69,7 +69,7 @@ namespace EntidadesAbstractas
         
         #endregion
         
-        #region METODOS------------------------------
+        #region -----------------METODOS---------------
         protected int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
                 if (nacionalidad == ENacionalidad.Argentino && dato > 0 && dato < 89999999)
@@ -98,8 +98,8 @@ namespace EntidadesAbstractas
 
 
         #endregion
-        
-        #region SOBRECARGA DE METODOS----------------
+
+        #region ----------SOBRECARGA DE METODOS--------
         public override string ToString()
         {
             StringBuilder cadena = new StringBuilder();
@@ -108,10 +108,14 @@ namespace EntidadesAbstractas
             return cadena.ToString();
         }
         #endregion
-        
-        #region ENUMERADOS
 
-        public enum ENacionalidad {Argentino, Extranjero}
+        #region ----------------ENUMERADOS-------------
+
+        public enum ENacionalidad
+        {
+            Argentino,
+            Extranjero
+        }
 
         #endregion
 
