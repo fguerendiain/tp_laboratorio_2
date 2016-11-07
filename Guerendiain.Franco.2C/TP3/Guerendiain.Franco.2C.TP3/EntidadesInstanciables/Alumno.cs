@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EntidadesAbstractas;
 
-namespace EntidadesAbstractas
+
+namespace EntidadesInstanciables
 {
-    sealed class Alumno : PersonaGimnasio
+    class Alumno : PersonaGimnacio
     {
         #region ---------------ATRIBBUTOS--------------
         protected EClases _claseQueToma;
@@ -15,12 +17,14 @@ namespace EntidadesAbstractas
 
         #region --------------CONSTRUCTORES------------
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma): base(id,nombre,apellido,dni,nacionalidad)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma)
+            : base(id, nombre, apellido, dni, nacionalidad)
         {
             this._claseQueToma = claseQueToma;
         }
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma, EEstadoCuenta estadoCuenta): this(id,nombre,apellido,dni,nacionalidad,claseQueToma)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma, EEstadoCuenta estadoCuenta)
+            : this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
         {
             this._estadoCuenta = estadoCuenta;
         }

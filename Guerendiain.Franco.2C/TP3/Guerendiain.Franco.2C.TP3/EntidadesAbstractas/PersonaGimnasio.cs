@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntidadesAbstractas
 {
-    abstract class PersonaGimnasio : Persona
+    public abstract class PersonaGimnasio : Persona
     {
         #region ---------------ATRIBBUTOS--------------
         protected int _identificador;

@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace EntidadesAbstractas
 {
-    abstract class Persona
+     public abstract class Persona
     {
         #region --------------ATRIBBUTOS--------------
         protected string _apellido;

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EntidadesAbstractas;
 
-namespace EntidadesAbstractas
+namespace EntidadesInstanciables
 {
-    sealed class Instructor : PersonaGimnasio
+    class Instructor : PersonaGimnacio
     {
         #region ---------------ATRIBBUTOS--------------
         protected Queue<EClases> _clasesDelDia;
