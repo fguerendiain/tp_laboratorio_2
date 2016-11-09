@@ -7,7 +7,7 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    class Instructor : PersonaGimnacio
+    class Instructor : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
         protected Queue<EClases> _clasesDelDia;

@@ -77,7 +77,7 @@ namespace EntidadesAbstractas
                     return dato;
                 }
                 
-                throw new DniInvalidoException;
+                throw new DniInvalidoException();
             
         }
 
