@@ -1,5 +1,0 @@
-MEtodo Clase -------> Se genere una excepcion
-Metodo instancia ----> lo reciba
-Constructore -------> capture un constructor
-Propiedad -------> capturada por una propiedad
-Main ------> todo se muestre en el main
