@@ -1,0 +1,6 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\obj\Debug\Clase20DB.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\bin\Debug\Clase20DB.dll.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\bin\Debug\Clase20DB.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\bin\Debug\Clase20DB.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\obj\Debug\Clase20DB.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase20DB\obj\Debug\Clase20DB.pdb
