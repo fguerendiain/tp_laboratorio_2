@@ -11,19 +11,19 @@ namespace EntidadesInstanciables
     public class Alumno : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected Instructor.EClases _claseQueToma;
+        protected Gimnasio.EClases _claseQueToma;
         protected EEstadoCuenta _estadoCuenta;
         #endregion
 
         #region --------------CONSTRUCTORES------------
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Instructor.EClases claseQueToma)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Gimnasio.EClases claseQueToma)
             : base(id, nombre, apellido, dni, nacionalidad)
         {
             this._claseQueToma = claseQueToma;
         }
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Instructor.EClases claseQueToma, EEstadoCuenta estadoCuenta)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Gimnasio.EClases claseQueToma, EEstadoCuenta estadoCuenta)
             : this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
         {
             this._estadoCuenta = estadoCuenta;
@@ -56,12 +56,12 @@ namespace EntidadesInstanciables
         #endregion
 
         #region ---------SOBRECARGA DE OPERADORES------
-        public static bool operator ==(Alumno alumno, Instructor.EClases clase)
+        public static bool operator ==(Alumno alumno, Gimnasio.EClases clase)
         {
             return (alumno._claseQueToma == clase && alumno._estadoCuenta != EEstadoCuenta.Deudor);
         }
 
-        public static bool operator !=(Alumno alumno, Instructor.EClases clase)
+        public static bool operator !=(Alumno alumno, Gimnasio.EClases clase)
         {
             return !(alumno._claseQueToma == clase);
         }
@@ -77,13 +77,6 @@ namespace EntidadesInstanciables
             AlDia
         }
 
-        public enum EClases
-        {
-            Natacion,
-            Pilates,
-            CrossFit,
-            Yoga
-        }
         #endregion
     }
 }

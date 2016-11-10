@@ -72,7 +72,7 @@ namespace EntidadesInstanciables
             return !(g == a);
         }
 
-        public static Instructor operator==(Gimnasio g, Instructor.EClases clase)
+        public static Instructor operator ==(Gimnasio g, Gimnasio.EClases clase)
         {
             foreach (Instructor t in g._instructor)
 	        {
@@ -85,7 +85,7 @@ namespace EntidadesInstanciables
             throw new SinInstructorException();
         }
 
-        public static Instructor operator !=(Gimnasio g, Instructor.EClases clase)
+        public static Instructor operator !=(Gimnasio g, Gimnasio.EClases clase)
         {
             throw new SinInstructorException();
         }
@@ -110,7 +110,7 @@ namespace EntidadesInstanciables
             return g;
         }
 
-        public static Gimnasio operator +(Gimnasio g, Instructor.EClases clase)
+        public static Gimnasio operator +(Gimnasio g, Gimnasio.EClases clase)
         {
             g._jornada.Add(new Jornada(clase, (g == clase)));
 

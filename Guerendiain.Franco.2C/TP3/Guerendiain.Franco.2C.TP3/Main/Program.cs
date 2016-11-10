@@ -103,7 +103,7 @@ namespace Main
             Console.ReadKey();
             try
             {
-                Gimnasio.Guardar(gim);
+      //          Gimnasio.Guardar(gim);
                 Console.WriteLine("Archivo de Gimnasio guardado");
             }
             catch (ArchivosException e)
@@ -113,7 +113,7 @@ namespace Main
             try
             {
                 int jornada = 0;
-                Jornada.Guardar(gim[jornada]);
+          //      Jornada.Guardar(gim[jornada]);
                 Console.WriteLine("Archivo de Jornada {0} guardado", jornada);
             }
             catch (ArchivosException e)

@@ -7,11 +7,11 @@ using Archivos;
 
 namespace EntidadesInstanciables
 {
-    class Jornada : IArchivo<Jornada>
+    public class Jornada : IArchivo<Jornada>
     {
         #region ---------------ATRIBBUTOS--------------
         private List<Alumno> _alumno;
-        private Instructor.EClases _clase;
+        private Gimnasio.EClases _clase;
         private Instructor _instructor;
         #endregion
 
@@ -21,7 +21,8 @@ namespace EntidadesInstanciables
             _alumno = new List<Alumno>();
         }
 
-        public Jornada(Instructor.EClases clase, Instructor instructor):this()
+        public Jornada(Gimnasio.EClases clase, Instructor instructor)
+            : this()
         {
             this._clase = clase;
             this._instructor = instructor;

@@ -10,7 +10,7 @@ namespace EntidadesInstanciables
     public class Instructor : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected Queue<EClases> _clasesDelDia;
+        protected Queue<Gimnasio.EClases> _clasesDelDia;
         protected static Random _random;
 
         #endregion
@@ -24,8 +24,9 @@ namespace EntidadesInstanciables
         public Instructor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             : base(id, nombre, apellido, dni, nacionalidad)
         {
-            _clasesDelDia.Dequeue();
-            _clasesDelDia.Dequeue();
+            _clasesDelDia = new Queue<Gimnasio.EClases>();
+            _clasesDelDia.Enqueue(_randomClases());
+            _clasesDelDia.Enqueue(_randomClases());
         }
 
         #endregion
@@ -36,9 +37,11 @@ namespace EntidadesInstanciables
             return "CLASE DEL DIA " + this._clasesDelDia;
         }
 
-        protected void _randomClases()
+        protected Gimnasio.EClases _randomClases()
         {
-            _random.Next();
+            Array enumValues;
+            enumValues = Enum.GetValues(typeof(Gimnasio.EClases));
+            return (Gimnasio.EClases)enumValues.GetValue(_random.Next(enumValues.Length));
         }
 
         #endregion
@@ -60,27 +63,17 @@ namespace EntidadesInstanciables
         #endregion
 
         #region ---------SOBRECARGA DE OPERADORES------
-        public static bool operator ==(Instructor i, EClases clase)
+        public static bool operator ==(Instructor i, Gimnasio.EClases clase)
         {
             return i._clasesDelDia.Contains(clase);
         }
 
-        public static bool operator !=(Instructor i, EClases clase)
+        public static bool operator !=(Instructor i, Gimnasio.EClases clase)
         {
             return !(i==clase);
         }
 
         #endregion
 
-        #region ----------------ENUMERADOS-------------
-        public enum EClases
-        {
-            Natacion,
-            Pilates,
-            CrossFit,
-            Yoga
-        }
-
-        #endregion
     }
 }
