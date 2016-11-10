@@ -8,22 +8,22 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    class Alumno : PersonaGimnacio
+    public class Alumno : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected EClases _claseQueToma;
+        protected Instructor.EClases _claseQueToma;
         protected EEstadoCuenta _estadoCuenta;
         #endregion
 
         #region --------------CONSTRUCTORES------------
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Instructor.EClases claseQueToma)
             : base(id, nombre, apellido, dni, nacionalidad)
         {
             this._claseQueToma = claseQueToma;
         }
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma, EEstadoCuenta estadoCuenta)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Instructor.EClases claseQueToma, EEstadoCuenta estadoCuenta)
             : this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
         {
             this._estadoCuenta = estadoCuenta;
@@ -32,7 +32,7 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        protected string ParticiparEnClase()
+        public override string ParticiparEnClase()
         {
             return "TOMA CLASES DE " + this._claseQueToma.ToString();
         }
@@ -56,12 +56,12 @@ namespace EntidadesInstanciables
         #endregion
 
         #region ---------SOBRECARGA DE OPERADORES------
-        public static bool operator ==(Alumno alumno, EClases clase)
+        public static bool operator ==(Alumno alumno, Instructor.EClases clase)
         {
             return (alumno._claseQueToma == clase && alumno._estadoCuenta != EEstadoCuenta.Deudor);
         }
 
-        public static bool operator !=(Alumno alumno, EClases clase)
+        public static bool operator !=(Alumno alumno, Instructor.EClases clase)
         {
             return !(alumno._claseQueToma == clase);
         }
@@ -69,19 +69,20 @@ namespace EntidadesInstanciables
         #endregion
 
         #region ----------------ENUMERADOS-------------
-        public enum EClases
-        {
-            Natacion,
-            Pilates,
-            CrossFit,
-            Yoga
-        }
 
         public enum EEstadoCuenta
         {
             MesPrueba,
             Deudor,
             AlDia
+        }
+
+        public enum EClases
+        {
+            Natacion,
+            Pilates,
+            CrossFit,
+            Yoga
         }
         #endregion
     }

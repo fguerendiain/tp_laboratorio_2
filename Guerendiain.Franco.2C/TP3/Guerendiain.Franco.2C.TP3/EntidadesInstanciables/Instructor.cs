@@ -7,7 +7,7 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    class Instructor : PersonaGimnasio
+    public class Instructor : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
         protected Queue<EClases> _clasesDelDia;
@@ -31,7 +31,7 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        protected string ParticiparEnClase()
+        public override string ParticiparEnClase()
         {
             return "CLASE DEL DIA " + this._clasesDelDia;
         }
@@ -60,6 +60,16 @@ namespace EntidadesInstanciables
         #endregion
 
         #region ---------SOBRECARGA DE OPERADORES------
+        public static bool operator ==(Instructor i, EClases clase)
+        {
+            return i._clasesDelDia.Contains(clase);
+        }
+
+        public static bool operator !=(Instructor i, EClases clase)
+        {
+            return !(i==clase);
+        }
+
         #endregion
 
         #region ----------------ENUMERADOS-------------

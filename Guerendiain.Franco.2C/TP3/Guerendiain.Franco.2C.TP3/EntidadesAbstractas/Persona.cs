@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
+using Excepciones;
 
 namespace EntidadesAbstractas
 {
@@ -72,13 +73,22 @@ namespace EntidadesAbstractas
         #region -----------------METODOS---------------
         protected int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
-                if (nacionalidad == ENacionalidad.Argentino && dato > 0 && dato < 89999999)
+            if (nacionalidad == ENacionalidad.Argentino)
+            {
+                if (dato > 0 && dato < 89999999)
                 {
                     return dato;
                 }
-                
-                throw new DniInvalidoException();
-            
+                else
+                {
+                    throw new DniInvalidoException();
+                }
+
+            }
+            else
+            {
+                throw new DniInvalidoException("La nacionalidad no se condice con el numero de DNI\n");
+            }
         }
 
         protected int ValidarDni(ENacionalidad nacionalidad, string dato)

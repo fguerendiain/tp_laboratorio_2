@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Archivos;
 
 namespace EntidadesInstanciables
 {
-    class Jornada
+    class Jornada : IArchivo<Jornada>
     {
         #region ---------------ATRIBBUTOS--------------
         private List<Alumno> _alumno;
@@ -28,14 +29,14 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        public static bool Guardar(Jornada jornada)
+        public bool Guardar(string archivo, Jornada datos)
         {
-            return true;   
+            throw new NotImplementedException();
         }
 
-        public static bool Leer(Jornada jornada)
+        public bool Leer(string archivo, out Jornada datos)
         {
-            return true;
+            throw new NotImplementedException();
         }
 
         #endregion
@@ -72,6 +73,7 @@ namespace EntidadesInstanciables
             return !(j == a);
         }
         #endregion
+
 
     }
 }
