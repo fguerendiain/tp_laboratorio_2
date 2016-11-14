@@ -1,0 +1,4 @@
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.pdb
