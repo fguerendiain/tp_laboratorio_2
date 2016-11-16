@@ -18,23 +18,20 @@ namespace Navegador
 
         public frmHistorial()
         {
-            List<string> historial = new List<string>();
-            StringBuilder cadena = new StringBuilder();
-
             InitializeComponent();
-            Texto historico = new Texto(ARCHIVO_HISTORIAL);
-            historico.leer(out historial);
-            foreach (string t in historial)
-            {
-                cadena.AppendLine(t);
-            }
-        
-            lstHistorial.Text = cadena.ToString();
         }
 
         private void frmHistorial_Load(object sender, EventArgs e)
         {
-            Archivos.Texto archivos = new Archivos.Texto(frmHistorial.ARCHIVO_HISTORIAL);
+            List<string> historial = new List<string>();
+
+            Texto historico = new Texto(ARCHIVO_HISTORIAL);
+            historico.leer(out historial);
+
+            foreach (string t in historial)
+            {
+                this.lstHistorial.Items.Add(t);
+            }
 
             
         }

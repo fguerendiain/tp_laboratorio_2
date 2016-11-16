@@ -13,3 +13,8 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.dll
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\bin\Debug\Hilo.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Hilo\obj\Debug\Hilo.pdb

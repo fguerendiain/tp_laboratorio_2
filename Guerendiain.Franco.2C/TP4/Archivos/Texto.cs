@@ -9,61 +9,36 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-        List<string> historial;
 
-        private Texto()
-        {
-            historial = new List<string>();
-        }
+        private string filePath;
 
-        public Texto(string archivo) :this()
+
+        public Texto(string archivo)
         {
-            historial.Add(archivo);
+            this.filePath = archivo;
         }
 
         public bool guardar(string datos)
         {
-            try
+            using (StreamWriter file = new StreamWriter(this.filePath, true))
             {
-                using (StreamWriter file = new StreamWriter(datos, true))
-                {
-                    file.WriteLine(datos);
-                }
-                return true;
-
+                file.WriteLine(datos);
             }
-            catch (Exception e)
-            {
-                throw e.InnerException;
-            }
+            return true;
         }
 
-        public bool leer(out List<string> datos)
+        public bool leer(out List<string> lines)
         {
-            List<string> listaAux = new List<string>();
-
-            try
+            lines = new List<string>();
+            
+            using (StreamReader file = new StreamReader(this.filePath))
             {
-                if (this.historial == null)
-                {
-                    datos = null;
-                    return false;
+                while(!file.EndOfStream){
+                    lines.Add(file.ReadLine());
                 }
+            }
 
-                foreach (string t in this.historial)
-                {
-                    using (StreamReader file = new StreamReader(this.historial[0]))
-                    {
-                        listaAux[t.IndexOf(t)] = file.ReadToEnd();
-                    }
-                }
-                datos = listaAux;
-                return true;
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
+            return true;
         }
     }
 }
