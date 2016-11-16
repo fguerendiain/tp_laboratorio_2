@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP4\Excepciones\obj\Debug\Excepciones.pdb

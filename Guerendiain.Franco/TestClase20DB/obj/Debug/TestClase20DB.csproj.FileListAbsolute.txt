@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\obj\Debug\TestClase20DB.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\bin\Debug\TestClase20DB.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\bin\Debug\TestClase20DB.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\bin\Debug\TestClase20DB.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\bin\Debug\Clase20DB.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\bin\Debug\Clase20DB.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\obj\Debug\TestClase20DB.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase20DB\obj\Debug\TestClase20DB.pdb

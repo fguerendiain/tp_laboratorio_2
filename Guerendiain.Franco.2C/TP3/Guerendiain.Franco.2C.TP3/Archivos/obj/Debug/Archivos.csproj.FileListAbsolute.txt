@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\bin\Debug\TestClase19bis.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\bin\Debug\TestClase19bis.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\bin\Debug\TestClase19bis.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\bin\Debug\Clase19bis.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\bin\Debug\Clase19bis.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\obj\Debug\TestClase19bis.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\obj\Debug\TestClase19bis.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\TestClase19bis\obj\Debug\TestClase19bis.pdb

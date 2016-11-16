@@ -3,3 +3,4 @@ D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19\bin\Debug\Clase19.ex
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19\bin\Debug\Clase19.pdb
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19\obj\Debug\Clase19.exe
 D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19\obj\Debug\Clase19.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase19\obj\Debug\Clase19.csprojResolveAssemblyReference.cache
