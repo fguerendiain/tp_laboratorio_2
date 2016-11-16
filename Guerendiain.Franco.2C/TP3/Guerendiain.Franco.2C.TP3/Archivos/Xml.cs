@@ -11,6 +11,14 @@ namespace Archivos
 {
     public class Xml<T> : IArchivo<T>
     {
+
+        private XmlSerializer _serializer;
+
+        public Xml()
+        {
+            this._serializer = new XmlSerializer(typeof(T));
+        }
+
         public bool Guardar(string archivo, T datos)
         {
 
@@ -18,12 +26,9 @@ namespace Archivos
             {
                 using (XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8))
                 {
-                    XmlSerializer serializer = new XmlSerializer(typeof(T));
-                    serializer.Serialize(writer, datos);
+                    this._serializer.Serialize(writer, datos);
+                    return true;
                 }
-
-                return true;
-
             }
             catch (ArchivosException e)
             {
@@ -37,14 +42,14 @@ namespace Archivos
             {
                 using (XmlTextReader reader = new XmlTextReader(archivo))
                 {
-                    XmlSerializer serializer = new XmlSerializer(typeof(T));
-                    datos = (T)serializer.Deserialize(reader);
+                    datos = (T)this._serializer.Deserialize(reader);
                     return true;
                 }
 
             }
             catch (ArchivosException e)
             {
+                datos = default(T);
                 throw e.InnerException;
             }
         }

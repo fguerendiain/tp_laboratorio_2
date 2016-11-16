@@ -5,19 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 using Excepciones;
 using Archivos;
+using System.Xml.Serialization;
 
 namespace EntidadesInstanciables
 {
-    public class Gimnasio : IArchivo<Gimnasio>
+    [Serializable]
+    [XmlInclude(typeof(Alumno))]
+    [XmlInclude(typeof(Instructor))]
+    [XmlInclude(typeof(Jornada))]
+    public class Gimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        private List<Alumno> _alumnos;
-        private List<Instructor> _instructor;
-        private List<Jornada> _jornada;
+        public List<Alumno> _alumnos;
+        public List<Instructor> _instructor;
+        public List<Jornada> _jornada;
         #endregion
 
         #region ---------------PROPIEDADES-------------
-        private Jornada this[int i]
+        public Jornada this[int i]
         {
             get { return this._jornada[i];}
         }
@@ -26,22 +31,26 @@ namespace EntidadesInstanciables
         #region --------------CONSTRUCTORES------------
         public Gimnasio()
         {
-            _alumnos = new List<Alumno>();
-            _instructor = new List<Instructor>();
-            _jornada = new List<Jornada>();
+            this._alumnos = new List<Alumno>();
+            this._instructor = new List<Instructor>();
+            this._jornada = new List<Jornada>();
         }
         
         #endregion
 
         #region -----------------METODOS---------------
-        public bool Guardar(string archivo, Gimnasio datos)
+        public static bool Guardar(Gimnasio datos)
         {
-            throw new NotImplementedException();
+            Xml<Gimnasio> export = new Xml<Gimnasio>();
+            return export.Guardar("Gimnasio.xml", datos);
         }
 
-        public bool Leer(string archivo, out Gimnasio datos)
+        public static Gimnasio Leer(Gimnasio datos)
         {
-            throw new NotImplementedException();
+            Xml<Gimnasio> import = new Xml<Gimnasio>();
+            Gimnasio aux;
+            import.Leer("Gimnasio.xml", out aux);
+            return aux;
         }
         #endregion
 
@@ -49,9 +58,11 @@ namespace EntidadesInstanciables
         private static string MostrarDatos(Gimnasio gim)
         {
             StringBuilder cadena = new StringBuilder();
-            
-            
-            return "";
+            foreach (Jornada t in gim._jornada)
+            {
+                cadena.Append(t);
+            }
+            return cadena.ToString();
         }
 
         public override string ToString()
@@ -64,7 +75,11 @@ namespace EntidadesInstanciables
 
         public static bool operator==(Gimnasio g, Alumno a)
         {
-            return (g._alumnos.Contains(a));
+            if(!object.ReferenceEquals(g, null))
+            {
+                return g._alumnos.Any(almUno => almUno == a);
+            }
+            return false;
         }
 
         public static bool operator!=(Gimnasio g, Alumno a)
@@ -74,25 +89,31 @@ namespace EntidadesInstanciables
 
         public static Instructor operator ==(Gimnasio g, Gimnasio.EClases clase)
         {
-            foreach (Instructor t in g._instructor)
-	        {
-		        if(t == clase)
-                {
-                    return t;
-                }
-        	}
+            Instructor aux = g._instructor.FirstOrDefault(t => t == clase);
 
-            throw new SinInstructorException();
+            if (!Object.Equals(aux, null))
+            {
+                return aux;
+            }
+            else
+            {
+                throw new Excepciones.SinInstructorException();
+            }
+
         }
 
         public static Instructor operator !=(Gimnasio g, Gimnasio.EClases clase)
         {
-            throw new SinInstructorException();
+            return g._instructor.FirstOrDefault(t => t != clase);
         }
 
         public static bool operator==(Gimnasio g, Instructor i)
         {
-            return (g._instructor.Contains(i));
+            if (!object.ReferenceEquals(g, null))
+            {
+                return g._instructor.Any(insUno => insUno == i);
+            }
+            return false;
         }
 
         public static bool operator !=(Gimnasio g, Instructor i)
@@ -102,9 +123,13 @@ namespace EntidadesInstanciables
 
         public static Gimnasio operator +(Gimnasio g, Alumno a)
         {
-            if (g!=a)
+            if (g != a)
             {
                 g._alumnos.Add(a);
+            }
+            else
+            {
+                throw new Excepciones.AlumnoRepetidoException();
             }
             
             return g;
@@ -112,17 +137,18 @@ namespace EntidadesInstanciables
 
         public static Gimnasio operator +(Gimnasio g, Gimnasio.EClases clase)
         {
-            g._jornada.Add(new Jornada(clase, (g == clase)));
+            Jornada auxJornada = new Jornada(clase, (g == clase));
 
             foreach (Alumno t in g._alumnos)
             {
                 if (t == clase)
                 {
-                    g._jornada[0] += t;
+                    auxJornada._alumno.Add(t);
                 }
 
             }
-            
+            g._jornada.Add(auxJornada);
+
             return g;
         }
 

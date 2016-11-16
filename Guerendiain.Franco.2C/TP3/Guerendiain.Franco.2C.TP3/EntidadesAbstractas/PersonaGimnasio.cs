@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntidadesAbstractas
 {
+
     public abstract class PersonaGimnasio : Persona
     {
         #region ---------------ATRIBBUTOS--------------
@@ -13,6 +14,10 @@ namespace EntidadesAbstractas
         #endregion
 
         #region --------------CONSTRUCTORES------------
+        public PersonaGimnasio()
+        { 
+        }
+                
         public PersonaGimnasio(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
         : base(nombre, apellido, dni, nacionalidad)
         {
@@ -25,21 +30,25 @@ namespace EntidadesAbstractas
         protected virtual string MostrarDatos()
         {
             StringBuilder cadena = new StringBuilder();
-            cadena.AppendLine(this.ToString());
+            cadena.AppendLine(base.ToString());
             cadena.AppendLine("CARNET NUMERO: " + this._identificador);
 
             return cadena.ToString();
 
         }
             
-        public abstract string ParticiparEnClase();
+        protected abstract string ParticiparEnClase();
 
         #endregion
 
         #region ----------SOBRECARGA DE METODOS--------
         public override bool Equals(object obj)
         {
-            return base.Equals(obj);
+            if(object.ReferenceEquals(obj, null))
+            {
+                return false;
+            }
+            return obj.Equals(obj.GetType());
         }
         #endregion
 

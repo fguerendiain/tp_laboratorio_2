@@ -5,11 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+
 namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-
+         
         public bool Guardar(string archivo, string datos)
         {
             try
@@ -31,7 +32,7 @@ namespace Archivos
         {
             try
             {
-                using (StreamReader file = new StreamReader(archivo))
+                using (StreamReader file = new StreamReader(archivo, true))
                 {
                     datos = file.ReadToEnd();
                 }

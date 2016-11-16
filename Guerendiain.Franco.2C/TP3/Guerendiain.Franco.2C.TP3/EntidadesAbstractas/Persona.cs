@@ -18,37 +18,48 @@ namespace EntidadesAbstractas
         #endregion
 
         #region ---------------PROPIEDADES-------------
-        string Apellido
+        public string Apellido
         {
             get {return this._apellido;}
-            set { this._apellido = value;}
+            set { this._apellido = ValidarNombreApellido(value); }
         }
-        
-        int DNI
+
+        public int DNI
         {
             get { return this._dni; }
-            set { this._dni = value; }
+            set { this._dni = ValidarDni(this._nacionalidad, value); }
         }
-        
-        ENacionalidad Nacionalidad
+
+        public ENacionalidad Nacionalidad
         {
             get { return this._nacionalidad; }
             set { this._nacionalidad = value; }
         }
-        
-        string Nombre
+
+        public string Nombre
         {
             get { return this._nombre; }
-            set { this._nombre = value; }
+            set { this._nombre = ValidarNombreApellido(value); }
         }
-        
-        string StringToDNI
+
+        public string StringToDNI
         {
-            set{int.TryParse(value, out this._dni);}
+            set
+            {
+                if (!int.TryParse(value = value.Replace(".", ""), out this._dni))
+                {
+                    throw new Excepciones.DniInvalidoException();
+                }
+
+            }
         }
         #endregion
 
         #region --------------CONSTRUCTORES------------
+        public Persona()
+        { 
+        }
+
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
             this._nombre = nombre;
@@ -61,7 +72,7 @@ namespace EntidadesAbstractas
         {
             this._dni = dni;
         }
-        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad)
+        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
         {
             this.StringToDNI = dni;
         }
@@ -73,37 +84,40 @@ namespace EntidadesAbstractas
         #region -----------------METODOS---------------
         protected int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
-            if (nacionalidad == ENacionalidad.Argentino)
+            if (nacionalidad == ENacionalidad.Extranjero)
             {
-                if (dato > 0 && dato < 89999999)
+                if (dato > 89999999 && dato < 99999999)
                 {
                     return dato;
                 }
-                else
-                {
-                    throw new DniInvalidoException();
-                }
+            }
 
-            }
-            else
+            if (nacionalidad == ENacionalidad.Argentino)
             {
-                throw new DniInvalidoException("La nacionalidad no se condice con el numero de DNI\n");
+                if (dato > 0 && dato <= 89999999)
+                {
+                    return dato;
+                }
             }
+            
+            throw new DniInvalidoException("La nacionalidad no se condice con el numero de DNI\n");
         }
 
         protected int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
-            this.StringToDNI = dato;
-            return ValidarDni(nacionalidad, dato);
+            int aux = int.Parse(dato);
+            return ValidarDni(nacionalidad, aux);
         }
 
         protected string ValidarNombreApellido(string dato)
         {
-            if (Regex.IsMatch(dato, @"^[a-zA-Z]+$"))
+            Regex ex = new Regex("^[A-Za-z]+$");
+
+            if (!ex.IsMatch(dato))
             {
-                return "";
+                return dato;
             }
-            return dato;
+            return "";
         }
 
 
@@ -114,6 +128,7 @@ namespace EntidadesAbstractas
         {
             StringBuilder cadena = new StringBuilder();
             cadena.AppendLine("NOMBRE COMPLETO: " + this._apellido + ", " + this._nombre);
+            cadena.AppendLine("NACIONALIDAD: " + this._nacionalidad);
 
             return cadena.ToString();
         }

@@ -1,0 +1,30 @@
+JORNADA: 
+CLASE DE CrossFit INSTRUCTOR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 2
+
+CLASE DEL DIA 
+Natacion
+CrossFit
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+ESTADO DE CUENTA: MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE CrossFit
+
+----------------------------------------------------------
+

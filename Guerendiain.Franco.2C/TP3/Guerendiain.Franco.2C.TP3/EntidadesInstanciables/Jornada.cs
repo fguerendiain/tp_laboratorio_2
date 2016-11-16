@@ -4,21 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Archivos;
+using System.Xml.Serialization;
 
 namespace EntidadesInstanciables
 {
-    public class Jornada : IArchivo<Jornada>
+    [Serializable]
+    [XmlInclude(typeof(Alumno))]
+    [XmlInclude(typeof(Instructor))]
+    public class Jornada
     {
         #region ---------------ATRIBBUTOS--------------
-        private List<Alumno> _alumno;
-        private Gimnasio.EClases _clase;
-        private Instructor _instructor;
+        public List<Alumno> _alumno;
+        public Gimnasio.EClases _clase;
+        public Instructor _instructor;
         #endregion
 
         #region --------------CONSTRUCTORES------------
         private Jornada()
         {
-            _alumno = new List<Alumno>();
+            this._alumno = new List<Alumno>();
         }
 
         public Jornada(Gimnasio.EClases clase, Instructor instructor)
@@ -30,14 +34,19 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        public bool Guardar(string archivo, Jornada datos)
+        public static bool Guardar(Jornada datos)
         {
-            throw new NotImplementedException();
+            Texto export = new Texto();
+            return export.Guardar("Jornada.txt", datos.ToString());
         }
 
-        public bool Leer(string archivo, out Jornada datos)
+        public static string Leer(Jornada datos)
         {
-            throw new NotImplementedException();
+            Texto import = new Texto();
+            string aux = "";
+            import.Leer("Jornada.txt", out aux);
+            return aux;
+        
         }
 
         #endregion
@@ -46,9 +55,14 @@ namespace EntidadesInstanciables
         public override string ToString()
         {
             StringBuilder cadena = new StringBuilder();
-            cadena.AppendLine(this._alumno.ToString());
-            cadena.AppendLine(this._instructor.ToString());
-
+            cadena.AppendLine("JORNADA: ");
+            cadena.AppendLine("CLASE DE " + this._clase + " INSTRUCTOR " + this._instructor);
+            cadena.AppendLine("ALUMNOS:");
+            foreach (Alumno t in this._alumno)
+            {
+                cadena.Append(t);
+            }
+            cadena.AppendLine("----------------------------------------------------------");
             return cadena.ToString();
         }
         #endregion
@@ -56,7 +70,7 @@ namespace EntidadesInstanciables
         #region ---------SOBRECARGA DE OPERADORES------
         public static Jornada operator +(Jornada j, Alumno a)
         {
-            if (j._alumno.Contains(a))
+            if (j==a)
             {
                 return j;
             }
@@ -66,7 +80,14 @@ namespace EntidadesInstanciables
         
         public static bool operator ==(Jornada j, Alumno a)
         {
-            return j._alumno.Contains(a); //si no le llega a gustar sobrecargo un == en la clase Alumno de alumno==alumno con el criterio de alumno == clase.
+            foreach (Alumno t in j._alumno)
+            {
+                if (t == a)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public static bool operator !=(Jornada j, Alumno a)
@@ -74,7 +95,5 @@ namespace EntidadesInstanciables
             return !(j == a);
         }
         #endregion
-
-
     }
 }

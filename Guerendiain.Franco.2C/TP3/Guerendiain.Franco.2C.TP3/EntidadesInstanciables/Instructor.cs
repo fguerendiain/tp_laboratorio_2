@@ -7,18 +7,23 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    public class Instructor : PersonaGimnasio
+    [Serializable]
+    public sealed class Instructor : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected Queue<Gimnasio.EClases> _clasesDelDia;
-        protected static Random _random;
+        public Queue<Gimnasio.EClases> _clasesDelDia;
+        public static Random _random;
 
         #endregion
 
         #region --------------CONSTRUCTORES------------
         static Instructor()
         {
-            _random = new Random();
+            Instructor._random = new Random();
+        }
+
+        public Instructor()
+        { 
         }
 
         public Instructor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
@@ -32,9 +37,16 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        public override string ParticiparEnClase()
+        protected override string ParticiparEnClase()
         {
-            return "CLASE DEL DIA " + this._clasesDelDia;
+            StringBuilder cadena = new StringBuilder();
+            cadena.AppendLine("CLASE DEL DIA ");
+            foreach (Gimnasio.EClases t in this._clasesDelDia)
+            {
+                cadena.AppendLine(t.ToString());
+            }
+
+            return cadena.ToString();
         }
 
         protected Gimnasio.EClases _randomClases()
@@ -65,7 +77,14 @@ namespace EntidadesInstanciables
         #region ---------SOBRECARGA DE OPERADORES------
         public static bool operator ==(Instructor i, Gimnasio.EClases clase)
         {
-            return i._clasesDelDia.Contains(clase);
+            foreach (Gimnasio.EClases t in i._clasesDelDia)
+            {
+                if (t == clase)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public static bool operator !=(Instructor i, Gimnasio.EClases clase)

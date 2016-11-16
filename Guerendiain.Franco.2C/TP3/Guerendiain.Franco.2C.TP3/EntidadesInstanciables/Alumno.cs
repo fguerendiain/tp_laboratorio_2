@@ -8,14 +8,18 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    public class Alumno : PersonaGimnasio
+    [Serializable]
+    public sealed class Alumno : PersonaGimnasio
     {
         #region ---------------ATRIBBUTOS--------------
-        protected Gimnasio.EClases _claseQueToma;
-        protected EEstadoCuenta _estadoCuenta;
+        public Gimnasio.EClases _claseQueToma;
+        public EEstadoCuenta _estadoCuenta;
         #endregion
 
         #region --------------CONSTRUCTORES------------
+        public Alumno()
+        { 
+        }
 
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Gimnasio.EClases claseQueToma)
             : base(id, nombre, apellido, dni, nacionalidad)
@@ -32,9 +36,11 @@ namespace EntidadesInstanciables
         #endregion
 
         #region -----------------METODOS---------------
-        public override string ParticiparEnClase()
+        protected override string ParticiparEnClase()
         {
-            return "TOMA CLASES DE " + this._claseQueToma.ToString();
+            StringBuilder cadena = new StringBuilder();
+            cadena.AppendLine("TOMA CLASES DE " + this._claseQueToma);
+            return cadena.ToString();
         }
         #endregion
 
@@ -43,7 +49,7 @@ namespace EntidadesInstanciables
         {
             StringBuilder cadena = new StringBuilder();
             cadena.AppendLine(base.MostrarDatos());
-            cadena.AppendLine("ESTADO DE CUENTA: " + this._estadoCuenta.ToString());
+            cadena.AppendLine("ESTADO DE CUENTA: " + this._estadoCuenta);
             cadena.AppendLine(this.ParticiparEnClase());
 
             return cadena.ToString();
@@ -63,7 +69,7 @@ namespace EntidadesInstanciables
 
         public static bool operator !=(Alumno alumno, Gimnasio.EClases clase)
         {
-            return !(alumno._claseQueToma == clase);
+            return !(alumno == clase);
         }
 
         #endregion
