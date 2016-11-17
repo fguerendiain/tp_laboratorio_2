@@ -28,3 +28,145 @@ TOMA CLASES DE CrossFit
 
 ----------------------------------------------------------
 
+JORNADA: 
+CLASE DE Natacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+CLASE DEL DIA 
+Natacion
+Pilates
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NUMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Natacion
+
+----------------------------------------------------------
+
+JORNADA: 
+CLASE DE CrossFit POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 2
+
+CLASE DEL DIA 
+CrossFit
+CrossFit
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+ESTADO DE CUENTA: MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE CrossFit
+
+----------------------------------------------------------
+
+JORNADA: 
+CLASE DE CrossFit POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+CLASE DEL DIA 
+CrossFit
+Natacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+ESTADO DE CUENTA: MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE CrossFit
+
+----------------------------------------------------------
+
+JORNADA: 
+CLASE DE CrossFit POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+CLASE DEL DIA 
+CrossFit
+Pilates
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+ESTADO DE CUENTA: MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE CrossFit
+
+----------------------------------------------------------
+
+JORNADA: 
+CLASE DE CrossFit POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+CLASE DEL DIA 
+CrossFit
+CrossFit
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 1
+
+ESTADO DE CUENTA: MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE CrossFit
+
+----------------------------------------------------------
+

@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\TestUnitarioTP3.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\TestUnitarioTP3.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Archivos.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Main.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Archivos.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\bin\Debug\Main.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\obj\Debug\TestUnitarioTP3.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\obj\Debug\TestUnitarioTP3.dll
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\TestUnitarioTP3\obj\Debug\TestUnitarioTP3.pdb
