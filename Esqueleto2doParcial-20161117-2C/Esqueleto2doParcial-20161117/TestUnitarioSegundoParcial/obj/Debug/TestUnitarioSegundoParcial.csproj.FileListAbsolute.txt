@@ -1,0 +1,9 @@
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\obj\Debug\TestUnitarioSegundoParcial.csprojResolveAssemblyReference.cache
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\TestUnitarioSegundoParcial.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\TestUnitarioSegundoParcial.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\Entidades.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\Excepciones.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\Entidades.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\bin\Debug\Excepciones.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\obj\Debug\TestUnitarioSegundoParcial.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\TestUnitarioSegundoParcial\obj\Debug\TestUnitarioSegundoParcial.pdb

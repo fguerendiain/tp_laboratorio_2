@@ -1,0 +1,6 @@
+NOMBRE: MaxiDescuento
+DIRECCION: Av. Mitre 219
+ANCHO DEL FRENTE: 22mts
+
+<------------------------------->
+

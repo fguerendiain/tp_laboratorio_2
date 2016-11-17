@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.pdb
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.frmParcial.resources
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csprojResolveAssemblyReference.cache
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.frmParcial.resources
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.Properties.Resources.resources
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csproj.GenerateResource.Cache
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Entidades.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Excepciones.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Entidades.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Excepciones.pdb

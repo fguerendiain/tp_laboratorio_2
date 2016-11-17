@@ -1,0 +1,5 @@
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Excepciones\bin\Debug\Excepciones.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Excepciones\bin\Debug\Excepciones.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Excepciones\obj\Debug\Excepciones.dll
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Excepciones\obj\Debug\Excepciones.pdb
+D:\fguerendiain\Esqueleto2doParcial-20161117-2C\Esqueleto2doParcial-20161117\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
