@@ -20,3 +20,14 @@ C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
 C:\Users\Administrador\Desktop\Develop\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco.2C\TP3\Guerendiain.Franco.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

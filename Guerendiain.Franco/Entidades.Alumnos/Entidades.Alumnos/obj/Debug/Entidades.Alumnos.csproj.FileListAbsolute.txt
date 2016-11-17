@@ -1,0 +1,10 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb

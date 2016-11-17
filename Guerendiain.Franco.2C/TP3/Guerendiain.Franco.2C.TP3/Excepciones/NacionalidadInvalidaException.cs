@@ -12,9 +12,8 @@ namespace Excepciones
         { 
         }
 
-        public NacionalidadInvalidaException(string message)
+        public NacionalidadInvalidaException(string message): base(message)
         {
-            Console.WriteLine(message);
         }
 
     }

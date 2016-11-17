@@ -1,0 +1,10 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Main.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Main.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Main.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Entidades.Alumnos.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Entidades.Alumnos.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\obj\Debug\Main.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\obj\Debug\Main.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Entidades.Externa.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Entidades.Alumnos\Main\bin\Debug\Entidades.Externa.Otra.dll

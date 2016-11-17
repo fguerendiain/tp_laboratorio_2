@@ -9,8 +9,8 @@ namespace Excepciones
     public class SinInstructorException : Exception
     {
         public SinInstructorException()
+            : base("No hay instructor para la clase.\n")
         {
-            Console.WriteLine("No hay instructor para la clase.\n");
         }
     }
 }

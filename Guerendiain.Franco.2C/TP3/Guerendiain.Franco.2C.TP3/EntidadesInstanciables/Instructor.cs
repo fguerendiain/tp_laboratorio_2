@@ -17,21 +17,21 @@ namespace EntidadesInstanciables
         #endregion
 
         #region --------------CONSTRUCTORES------------
+        public Instructor()
+        {
+        }
+
         static Instructor()
         {
             Instructor._random = new Random();
         }
 
-        public Instructor()
-        { 
-        }
-
         public Instructor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             : base(id, nombre, apellido, dni, nacionalidad)
         {
-            _clasesDelDia = new Queue<Gimnasio.EClases>();
-            _clasesDelDia.Enqueue(_randomClases());
-            _clasesDelDia.Enqueue(_randomClases());
+            this._clasesDelDia = new Queue<Gimnasio.EClases>(); 
+            this._clasesDelDia.Enqueue(_randomClases());
+            this._clasesDelDia.Enqueue(_randomClases());
         }
 
         #endregion
@@ -49,7 +49,7 @@ namespace EntidadesInstanciables
             return cadena.ToString();
         }
 
-        protected Gimnasio.EClases _randomClases()
+        public Gimnasio.EClases _randomClases()
         {
             Array enumValues;
             enumValues = Enum.GetValues(typeof(Gimnasio.EClases));

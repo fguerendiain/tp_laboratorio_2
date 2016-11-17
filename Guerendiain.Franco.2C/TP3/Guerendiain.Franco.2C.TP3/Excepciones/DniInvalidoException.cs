@@ -14,20 +14,17 @@ namespace Excepciones
         { 
         }
 
-        public DniInvalidoException(Exception e)
+        public DniInvalidoException(Exception e): base(e.Message)
         {
-            Console.WriteLine(e.Message);
         }
 
-        public DniInvalidoException(string message)
+        public DniInvalidoException(string message): base(message)
         {
-            this.mensajeBase = message;
         }
 
         public DniInvalidoException(string message, Exception e):this (message)
         {
-            new DniInvalidoException(e);
-            Console.WriteLine(this.mensajeBase);
+            throw e;
         }
 
     }
