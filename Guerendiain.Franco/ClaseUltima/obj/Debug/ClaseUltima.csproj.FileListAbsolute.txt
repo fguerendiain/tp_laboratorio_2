@@ -1,0 +1,4 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltima\bin\Debug\ClaseUltima.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltima\bin\Debug\ClaseUltima.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltima\obj\Debug\ClaseUltima.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltima\obj\Debug\ClaseUltima.pdb

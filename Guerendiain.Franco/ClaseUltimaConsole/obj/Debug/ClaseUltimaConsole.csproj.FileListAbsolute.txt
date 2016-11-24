@@ -1,0 +1,8 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\bin\Debug\ClaseUltimaConsole.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\obj\Debug\ClaseUltimaConsole.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\bin\Debug\ClaseUltimaConsole.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\bin\Debug\ClaseUltimaConsole.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\bin\Debug\ClaseUltima.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\bin\Debug\ClaseUltima.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\obj\Debug\ClaseUltimaConsole.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaConsole\obj\Debug\ClaseUltimaConsole.pdb

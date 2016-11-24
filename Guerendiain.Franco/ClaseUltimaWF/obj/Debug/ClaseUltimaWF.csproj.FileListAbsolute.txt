@@ -1,0 +1,11 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\bin\Debug\ClaseUltimaWF.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\bin\Debug\ClaseUltimaWF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\bin\Debug\ClaseUltimaWF.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\bin\Debug\ClaseUltima.dll
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\bin\Debug\ClaseUltima.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.Form1.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.Properties.Resources.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.csproj.GenerateResource.Cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\ClaseUltimaWF\obj\Debug\ClaseUltimaWF.pdb
