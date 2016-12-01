@@ -1,0 +1,6 @@
+D:\finalGuerendiain\Guerendiain.Franco\Pila\bin\Debug\Pila.exe.config
+D:\finalGuerendiain\Guerendiain.Franco\Pila\bin\Debug\Pila.exe
+D:\finalGuerendiain\Guerendiain.Franco\Pila\bin\Debug\Pila.pdb
+D:\finalGuerendiain\Guerendiain.Franco\Pila\obj\Debug\Pila.csprojResolveAssemblyReference.cache
+D:\finalGuerendiain\Guerendiain.Franco\Pila\obj\Debug\Pila.exe
+D:\finalGuerendiain\Guerendiain.Franco\Pila\obj\Debug\Pila.pdb
