@@ -1,0 +1,8 @@
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.exe
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.pdb

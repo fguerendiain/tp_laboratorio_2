@@ -1,0 +1,7 @@
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.pdb
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb

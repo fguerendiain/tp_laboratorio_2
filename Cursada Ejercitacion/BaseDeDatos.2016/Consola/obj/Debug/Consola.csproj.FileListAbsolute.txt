@@ -1,0 +1,16 @@
+D:\MAXI\2016\BaseDeDatos.2016\Consola\bin\Debug\Consola.exe.config
+D:\MAXI\2016\BaseDeDatos.2016\Consola\bin\Debug\Consola.exe
+D:\MAXI\2016\BaseDeDatos.2016\Consola\bin\Debug\Consola.pdb
+D:\MAXI\2016\BaseDeDatos.2016\Consola\bin\Debug\AccesoDatos.dll
+D:\MAXI\2016\BaseDeDatos.2016\Consola\bin\Debug\AccesoDatos.pdb
+D:\MAXI\2016\BaseDeDatos.2016\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\MAXI\2016\BaseDeDatos.2016\Consola\obj\Debug\Consola.exe
+D:\MAXI\2016\BaseDeDatos.2016\Consola\obj\Debug\Consola.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\bin\Debug\Consola.exe.config
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\obj\Debug\Consola.exe
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\obj\Debug\Consola.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\bin\Debug\Consola.exe
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\bin\Debug\Consola.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\bin\Debug\AccesoDatos.dll
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\bin\Debug\AccesoDatos.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

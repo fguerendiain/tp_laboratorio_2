@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SerializacionXml3.exe
+bin\Debug\SerializacionXml3.pdb
+obj\Debug\SerializacionXml3.exe
+obj\Debug\SerializacionXml3.pdb

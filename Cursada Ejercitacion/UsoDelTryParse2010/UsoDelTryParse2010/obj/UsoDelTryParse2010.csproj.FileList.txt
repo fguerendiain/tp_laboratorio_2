@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\UsoDelTryParse2010.exe
+bin\Debug\UsoDelTryParse2010.pdb
+obj\Debug\UsoDelTryParse2010.exe
+obj\Debug\UsoDelTryParse2010.pdb

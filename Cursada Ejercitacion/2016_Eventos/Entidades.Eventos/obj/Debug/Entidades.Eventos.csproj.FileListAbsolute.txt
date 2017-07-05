@@ -1,0 +1,4 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Entidades.Eventos\bin\Debug\Entidades.Eventos.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Entidades.Eventos\bin\Debug\Entidades.Eventos.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Entidades.Eventos\obj\Debug\Entidades.Eventos.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Entidades.Eventos\obj\Debug\Entidades.Eventos.pdb

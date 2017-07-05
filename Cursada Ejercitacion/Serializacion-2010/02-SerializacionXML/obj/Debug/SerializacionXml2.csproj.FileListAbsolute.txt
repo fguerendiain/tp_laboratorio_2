@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-SerializacionXML\bin\Debug\SerializacionXml2.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-SerializacionXML\bin\Debug\SerializacionXml2.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-SerializacionXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-SerializacionXML\obj\Debug\SerializacionXml2.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-SerializacionXML\obj\Debug\SerializacionXml2.pdb

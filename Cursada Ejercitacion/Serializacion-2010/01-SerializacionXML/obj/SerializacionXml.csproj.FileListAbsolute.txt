@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\Serializacion\bin\Debug\Serializacion.exe
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\Serializacion\bin\Debug\Serializacion.pdb
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\Serializacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\Serializacion\obj\Debug\Serializacion.exe
+C:\Documents and Settings\Usuario\My Documents\@@ C#\Serializacion C#\Serializacion\Serializacion\obj\Debug\Serializacion.pdb

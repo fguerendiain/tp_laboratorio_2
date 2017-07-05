@@ -1,0 +1,5 @@
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\Entidades\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\Entidades\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\Entidades\obj\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\Entidades\obj\Debug\Entidades.pdb

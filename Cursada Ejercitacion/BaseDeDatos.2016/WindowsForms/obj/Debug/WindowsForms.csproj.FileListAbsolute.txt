@@ -1,0 +1,12 @@
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\bin\Debug\AccesoDatos.dll
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\bin\Debug\AccesoDatos.pdb
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.ABM.resources
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.frmPersonas.resources
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\profesor\Desktop\BaseDeDatos.2016\WindowsForms\obj\Debug\WindowsForms.pdb

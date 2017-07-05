@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-ArchivoDeTexo\bin\Debug\SerializacionBinaria2.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-ArchivoDeTexo\bin\Debug\SerializacionBinaria2.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-ArchivoDeTexo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-ArchivoDeTexo\obj\Debug\SerializacionBinaria2.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\02-ArchivoDeTexo\obj\Debug\SerializacionBinaria2.pdb

@@ -1,0 +1,5 @@
+bin\Debug\SerializacionBinaria2.exe
+bin\Debug\SerializacionBinaria2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerializacionBinaria2.exe
+obj\Debug\SerializacionBinaria2.pdb

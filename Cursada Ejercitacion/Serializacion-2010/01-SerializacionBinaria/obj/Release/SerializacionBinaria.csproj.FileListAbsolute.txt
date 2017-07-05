@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-SerializacionBinaria\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-SerializacionBinaria\bin\Release\SerializacionBinaria3.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-SerializacionBinaria\bin\Release\SerializacionBinaria3.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-SerializacionBinaria\obj\Release\SerializacionBinaria3.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-SerializacionBinaria\obj\Release\SerializacionBinaria3.pdb

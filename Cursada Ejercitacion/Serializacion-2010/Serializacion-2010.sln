@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivoDeTexto01", "01-ArchivosDeTexto\ArchivoDeTexto01.csproj", "{A896759D-CCD4-40CE-9A60-AA4E26601948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivoDeTexto02", "02-ArchivoDeTexo\ArchivoDeTexto02.csproj", "{204C4FF8-7144-4A5A-8D73-35A913A6BD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionXml", "01-SerializacionXML\SerializacionXml.csproj", "{5BEC77FE-9E9D-4CFA-942C-572AB63530E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionXml2", "02-SerializacionXML\SerializacionXml2.csproj", "{F038E9C1-9FE0-4063-99B0-993E4C0854E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionXml3", "03-SerializacionXML\SerializacionXml3.csproj", "{049A569C-9CFC-4403-98E7-30A6BE34EFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionBinaria", "01-SerializacionBinaria\SerializacionBinaria.csproj", "{87CA1E1E-A509-4051-93BC-FED121C0827C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A896759D-CCD4-40CE-9A60-AA4E26601948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A896759D-CCD4-40CE-9A60-AA4E26601948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A896759D-CCD4-40CE-9A60-AA4E26601948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A896759D-CCD4-40CE-9A60-AA4E26601948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204C4FF8-7144-4A5A-8D73-35A913A6BD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204C4FF8-7144-4A5A-8D73-35A913A6BD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204C4FF8-7144-4A5A-8D73-35A913A6BD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204C4FF8-7144-4A5A-8D73-35A913A6BD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEC77FE-9E9D-4CFA-942C-572AB63530E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEC77FE-9E9D-4CFA-942C-572AB63530E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEC77FE-9E9D-4CFA-942C-572AB63530E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEC77FE-9E9D-4CFA-942C-572AB63530E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F038E9C1-9FE0-4063-99B0-993E4C0854E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F038E9C1-9FE0-4063-99B0-993E4C0854E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F038E9C1-9FE0-4063-99B0-993E4C0854E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F038E9C1-9FE0-4063-99B0-993E4C0854E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049A569C-9CFC-4403-98E7-30A6BE34EFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049A569C-9CFC-4403-98E7-30A6BE34EFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049A569C-9CFC-4403-98E7-30A6BE34EFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049A569C-9CFC-4403-98E7-30A6BE34EFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CA1E1E-A509-4051-93BC-FED121C0827C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CA1E1E-A509-4051-93BC-FED121C0827C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CA1E1E-A509-4051-93BC-FED121C0827C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CA1E1E-A509-4051-93BC-FED121C0827C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

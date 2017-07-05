@@ -1,0 +1,10 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 08\Herencia\Herencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 08\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 08\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 08\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\Clase 08\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 08-2010\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 08-2010\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 08-2010\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 08-2010\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 08-2010\Herencia\Herencia\obj\Debug\ResolveAssemblyReference.cache
