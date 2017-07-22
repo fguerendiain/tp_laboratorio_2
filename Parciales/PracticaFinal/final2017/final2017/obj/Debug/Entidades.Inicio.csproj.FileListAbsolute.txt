@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Nueva carpeta\tp_laboratorio_2\Parciales\PracticaFinal\final2017\final2017\bin\Debug\final2017.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\tp_laboratorio_2\Parciales\PracticaFinal\final2017\final2017\bin\Debug\final2017.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\tp_laboratorio_2\Parciales\PracticaFinal\final2017\final2017\obj\Debug\Entidades.Inicio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\tp_laboratorio_2\Parciales\PracticaFinal\final2017\final2017\obj\Debug\final2017.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\tp_laboratorio_2\Parciales\PracticaFinal\final2017\final2017\obj\Debug\final2017.pdb
