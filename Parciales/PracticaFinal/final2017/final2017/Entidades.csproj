@@ -41,12 +41,16 @@
   <ItemGroup>
     <Compile Include="Alumno.cs" />
     <Compile Include="AlumnoEgresado.cs" />
+    <Compile Include="Burbujeo.cs" />
     <Compile Include="ClaseConstructores.cs" />
+    <Compile Include="Excepciones.cs" />
+    <Compile Include="Extensora.cs" />
     <Compile Include="Humano.cs" />
     <Compile Include="IDeserializar.cs" />
     <Compile Include="ISerializar.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salon.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

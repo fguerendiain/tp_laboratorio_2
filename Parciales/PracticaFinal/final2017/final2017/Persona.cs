@@ -5,13 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
-
+using Entidades.Punto9F;
 
 namespace Entidades.Inicio
 {
+    using Extensora;
+    
     [XmlInclude(typeof(Alumno))]
     class Persona : Humano
     {
+
         public string apellido;
         public sbyte edad;
 
